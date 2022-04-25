@@ -1,6 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Umbrian-IKUVINA is a dependency treebank rendering of the Iguvine tablets [Wikipedia](https://en.wikipedia.org/wiki/Iguvine_Tablets).
 
 
 # Introduction
