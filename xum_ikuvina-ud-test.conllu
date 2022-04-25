@@ -3,7 +3,7 @@
 1	este	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 3	aves	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
-4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|VerbForm=Prt|Tense=Past	3	unk	_	_
+4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Prt	3	unk	_	_
 5	enetu	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	pernaies	_	ADJ	_	Case=Abl|Number=Plur	3	amod	_	_
 7	pusnaes	_	ADJ	_	Case=Abl|Number=Plur	6	conj	_	_
@@ -27,8 +27,8 @@
 
 # sent_id =	iguvina-I-4
 # text = vatuva ferine feitu
-1	vatuva	_	NOUN	_	Case=Acc|Num=Plur	3	obj	_	_
-2	ferine	_	NOUN	_	Case=Loc|Num=Sing	3	obl	_	_
+1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-5
@@ -78,7 +78,7 @@
 
 # sent_id =	iguvina-I-8
 # text = supa sumtu
-1	supa	_	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	2	obj	_	_
+1	supa	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
 2	sumtu	_	VERB	2SImF	_	0	root	_	_
 
 # sent_id =	iguvina-I-9
@@ -107,8 +107,8 @@
 4	tre	_	NUM	_	_	5	nummod	_	_
 5	buf	_	NOUN	_	Case=Acc|Number=Plur	6	obj	_	_
 6	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
-7	marte	_	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	6	iobj	_	_
-8	krapuvi	_	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	7	amod	_	_
+7	marte	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	_
+8	krapuvi	_	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
 9	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	6	conj	_	_
 10-11	ukripe	_	_	_	_	_	_	_	_
 10	ukri	_	NOUN	_	Case=Abl|Number=Sing	9	obl	_	_
@@ -126,8 +126,8 @@
 
 # sent_id =	iguvina-I-15
 # text = vatuva ferine fetu
-1	vatuva	_	NOUN	_	Case=Acc|Num=Plur	3	obj	_	_
-2	ferine	_	NOUN	_	Case=Loc|Num=Sing	3	obl	_	_
+1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-16
@@ -170,7 +170,7 @@
 
 # sent_id =	iguvina-I-20
 # text = supa sumtu
-1	supa	_	NOUN	_	Acc|Plur|Neut	2	obj	_	_
+1	supa	_	NOUN	_	Acc|Neut|Plur	2	obj	_	_
 2	sumtu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-21
@@ -241,8 +241,8 @@
 
 # sent_id =	iguvina-I-28
 # text = vatuva ferine fetu
-1	vatuva	_	NOUN	_	Case=Acc|Num=Plur	3	obj	_	_
-2	ferine	_	NOUN	_	Case=Loc|Num=Sing	3	obl	_	_
+1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-29
@@ -257,7 +257,7 @@
 # sent_id =	iguvina-I-30
 # text = kutef pesnimu ařepes arves
 1	kutef	_	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
-2	pesnimu	_	VERB	_	Mood=Imperative|Voice=Passive|Person=3|Number=Plur	0	root	_	_
+2	pesnimu	_	VERB	_	Mood=Imperative|Number=Plur|Person=3|Voice=Passive	0	root	_	_
 3	ařepes	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
@@ -310,7 +310,7 @@
 # sent_id =	iguvina-I-37
 # text = taçez pesnimu ařiper arvis
 1	taçez	_	VERB	_	_	2	advcl	_	_
-2	pesnimu	_	VERB	_	Mood=Imperative|Voice=Passive|Person=3|Number=Plur	0	root	_	_
+2	pesnimu	_	VERB	_	Mood=Imperative|Number=Plur|Person=3|Voice=Passive	0	root	_	_
 3	ařiper	_	NOUN	_	_	2	obl	_	_
 4	arvis	_	NOUN	_	_	3	conj	_	_
 
@@ -446,8 +446,8 @@
 
 # sent_id =	iguvina-I-51
 # text = vatuva ferine fetu
-1	vatuva	_	NOUN	_	Case=Acc|Num=Plur	3	obj	_	_
-2	ferine	_	NOUN	_	Case=Loc|Num=Sing	3	obl	_	_
+1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-52
@@ -491,8 +491,8 @@
 
 # sent_id =	iguvina-I-56
 # text = vatuva ferine fetu
-1	vatuva	_	NOUN	_	Case=Acc|Num=Plur	3	obj	_	_
-2	ferine	_	NOUN	_	Case=Loc|Num=Sing	3	obl	_	_
+1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-57
@@ -533,7 +533,7 @@
 1	sve	_	SCONJ	_	_	5	mark	_	_
 2	pu	_	PRON	_	_	5	nsubj	_	_
 3	esumek	_	DET	_	_	4	det	_	_
-4	esunu	_	NOUN	_	Case=Loc|Sing|Neut	5	obj	_	_
+4	esunu	_	NOUN	_	Case=Loc|Neut|Sing	5	obj	_	_
 5	antervakaze	_	VERB	_	_	6	advcl	_	(anter:vakaze)
 6-7	vaçetumi	_	_	_	_	_	_	_	_
 6	vaçetum	_	NOUN	_	Case=Acc	0	root	_	_
@@ -552,8 +552,8 @@
 
 # sent_id =	iguvina-I-64
 # text = restef esunu feitu
-1	restef	_	VERB	_	VerbForm=Part|Tense=Pres|Nom|Sing|Masc	2	amod?	_	_
-2	esunu	_	NOUN	_	Acc|Sing|Neut	3	obj	_	_
+1	restef	_	VERB	_	Masc|Nom|Sing|Tense=Pres|VerbForm=Part	2	amod?	_	_
+2	esunu	_	NOUN	_	Acc|Neut|Sing	3	obj	_	_
 3	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-65
@@ -561,12 +561,12 @@
 1	pune	_	SCONJ	_	_	4	mark	_	_
 2	puplum	_	NOUN	_	Case=Acc	3	obj	_	_
 3	aferum	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
-4	heries	_	VERB	_	Mood=Ind|2|Sing|Tense=Fut	7	advcl	_	_
-5	avef	_	NOUN	_	Fem|Plur|Acc	6	obj	_	_
+4	heries	_	VERB	_	2|Mood=Ind|Sing|Tense=Fut	7	advcl	_	_
+5	avef	_	NOUN	_	Acc|Fem|Plur	6	obj	_	_
 6	anzeriatu	_	VERB	_	Supine	7	xcomp	_	_
-7	etu	_	VERB	_	2|Sing|Imp|Fut	0	root	_	_
-8	pernaiaf	_	ADJ	_	Case=Acc|Plur|Fem	5	amod	_	_
-9	pustnaiaf	_	ADJ	_	Acc|Plur|Fem	8	conj	_	_
+7	etu	_	VERB	_	2|Fut|Imp|Sing	0	root	_	_
+8	pernaiaf	_	ADJ	_	Case=Acc|Fem|Plur	5	amod	_	_
+9	pustnaiaf	_	ADJ	_	Acc|Fem|Plur	8	conj	_	_
 
 # sent_id =	iguvina-I-66
 # text = pune kuvurtus krenkatrum hatu
@@ -635,7 +635,7 @@
 1	pune	_	SCONJ	_	_	2	mark	_	_
 2	menes	_	VERB	_	Ind2Sing	6	advcl	_	_
 3-4	akeřuniamem	_	_	_	_	_	_	_	_
-3	akeřuniam	_	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	2	obl	_	_
+3	akeřuniam	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
 4	em	em	ADP	_	_	3	case	_	_
 5	enumek	_	ADV	_	_	6	advmod	_	_
 6	etuřstamu	_	VERB	_	_	0	root	_	_
@@ -674,7 +674,7 @@
 # text = pune prinuvatus staheren termnesku enumek ařmanu kateramu ikuvinu
 1	pune	_	SCONJ	_	_	3	mark	_	_
 2	prinuvatus	_	NOUN	_	_	3	nsubj	_	_
-3	staheren	_	VERB	_	Person=3|Number=Plur|Tense=Fut	7	advcl	_	_
+3	staheren	_	VERB	_	Number=Plur|Person=3|Tense=Fut	7	advcl	_	_
 4-5	termnesku	_	_	_	_	_	_	_	_
 4	termnes	_	NOUN	_	_	3	obl	_	_
 5	ku	_	ADP	_	_	4	case	_	_
@@ -701,7 +701,7 @@
 # text = enumek etatu ikuvinus
 1	enumek	_	ADV	_	_	2	advmod	_	_
 2	etatu	_	VERB	3PImF	_	0	root	_	_
-3	ikuvinus	_	ADJ/NOUN	_	Nom|Plur|Masc	2	vocative	_	_
+3	ikuvinus	_	ADJ/NOUN	_	Masc|Nom|Plur	2	vocative	_	_
 
 # sent_id =	iguvina-I-81
 # text = triiuper amprehtu
@@ -717,7 +717,7 @@
 # text = triiuper etatu ikuvinus
 1	triiuper	_	ADV	_	_	2	advmod	_	_
 2	etatu	_	VERB	_	_	0	root	_	_
-3	ikuvinus	_	ADJ/NOUN	_	Nom|Plur|Masc	2	vocative	_	_
+3	ikuvinus	_	ADJ/NOUN	_	Masc|Nom|Plur	2	vocative	_	_
 
 # sent_id =	iguvina-I-84
 # text = enumek prinuvatus çimu etutu
@@ -750,8 +750,8 @@
 
 # sent_id =	iguvina-I-87
 # text = vatuvu ferine fetu
-1	vatuvu	_	NOUN	_	Case=Acc|Num=Plur	3	obj	_	_
-2	ferine	_	NOUN	_	Case=Loc|Num=Sing	3	obl	_	_
+1	vatuvu	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	iguvina-I-88
@@ -933,8 +933,8 @@
 # sent_id =	iguvina-I-112
 # text = enu esunu purtitu fust
 1	enu	_	ADV	_	_	3	advmod	_	_
-2	esunu	_	NOUN	_	Acc|Sing|Neut	3	obj	_	_
-3	purtitu	_	VERB	_	Nom|Sing|Neut	0	root	_	_
+2	esunu	_	NOUN	_	Acc|Neut|Sing	3	obj	_	_
+3	purtitu	_	VERB	_	Neut|Nom|Sing	0	root	_	_
 4	fust	_	AUX	_	_	4	aux	_	_
 
 # sent_id =	iguvina-I-113
@@ -963,7 +963,7 @@
 1	hutra	_	ADP	_	_	2	case	_	_
 2	furu	_	NOUN	_	acc.sing	4	obl	_	_
 3	sehmeniar	_	NOUN	_	gen.sg	2	nmod	_	_
-4	hatutu	_	VERB	_	Mood=Impv|Person=3|Number=Plur	0	root	_	_
+4	hatutu	_	VERB	_	Mood=Impv|Number=Plur|Person=3	0	root	_	_
 
 # sent_id =	iguvina-I-116
 # text = eaf iveka tre akeřunie fetu tuse iuvie
