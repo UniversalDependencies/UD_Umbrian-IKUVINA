@@ -1,6 +1,6 @@
 # Summary
 
-UD_Umbrian-IKUVINA is a dependency treebank rendering of the Iguvine tablets [Wikipedia](https://en.wikipedia.org/wiki/Iguvine_Tablets).
+UD_Umbrian-IKUVINA is a dependency treebank rendering of the Iguvine tablets ([Wikipedia](https://en.wikipedia.org/wiki/Iguvine_Tablets)).
 
 
 # Introduction
