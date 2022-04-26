@@ -1,21 +1,25 @@
 # Summary
 
 UD_Umbrian-IKUVINA is a dependency treebank rendering of the Iguvine tablets ([Wikipedia](https://en.wikipedia.org/wiki/Iguvine_Tablets)).
+The seven bronze tablets describe religious ceremonies performed by the Umbrian people in Italy before the rise of the Roman empire.
+
+The corpus will eventually contain all the tablets.
+But as of May 2022, only tablet I is release with partial morphological analysis and partial lemmatisation. (POS tagging and Dependency trees are complete)
 
 
 # Introduction
 
-...
+As the corpus is still under construction, we have not decided on a standard split yet.
 
 
+
+<!--
 # Acknowledgments
-
-...
+ ...
 
 ## References
 
-* (citation)
-
+* (citation) -->
 
 # Changelog
 
@@ -36,6 +40,6 @@ Features: manual native
 Relations: manual native
 Contributors: Dehouck, Mathieu
 Contributing: here
-Contact: mathieubmddehouck@mailoo.org
+Contact: mathieudehouck-ud@mailo.com
 ===============================================================================
 </pre>
