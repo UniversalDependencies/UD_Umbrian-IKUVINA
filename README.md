@@ -13,10 +13,12 @@ As the corpus is still under construction, we have not decided on a standard spl
 
 
 
-<!--
 # Acknowledgments
- ...
 
+This treebank is maintained by Mathieu Dehouck.
+
+
+<!--
 ## References
 
 * (citation) -->
