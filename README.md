@@ -9,7 +9,23 @@ But as of May 2022, only tablet I is release with partial morphological analysis
 
 # Introduction
 
-As the corpus is still under construction, we have not decided on a standard split yet.
+As the corpus is still under construction, so we have not decided on a standard split yet.
+
+Specific information about the analysis can be found on the language doc page.
+
+
+## Status
+
+|Tablet | Lemma | POS  | Features | Head | Relations |
+|-------|-------|------|----------|------|-----------|
+|I      | Part  | Done | Part     | Done | Done      |
+|II     |       |      |          |      |           |
+|III    |       |      |          |      |           |
+|IV     |       |      |          |      |           |
+|V um   |       |      |          |      |           |
+|V la   |       |      |          |      |           |
+|VI     |       |      |          |      |           |
+|VII    |       |      |          |      |           |
 
 
 
