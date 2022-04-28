@@ -11,7 +11,7 @@
 # sent_id =	IKUVINA-I-2
 # text = preveres treplanes iuve krapuvi tre buf fetu
 1-2	preveres	_	_	_	_	_	_	_	_
-1	pre	_	ADP	_	_	2	case	_	_
+1	pre	pre	ADP	_	_	2	case	_	_
 2	veres	_	NOUN	_	Case=Abl|Number=Plur	8	obl	_	_
 3	treplanes	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 4	iuve	_	PROPN	_	Case=Dat|Number=Sing	8	iobj	_	_
@@ -39,11 +39,11 @@
 4	puni	_	NOUN	_	Case=Abl|Number=Sing	2	conj	_	_
 5-6	ukriper	_	_	_	_	_	_	_	_
 5	ukri	_	NOUN	_	Case=Abl|Number=Sing	11	obl	_	_
-6	per	_	ADP	_	_	5	case	_	_
+6	per	per	ADP	_	_	5	case	_	_
 7	fisiu	_	ADJ	_	Case=Abl|Number=Sing	5	amod	_	_
 8-9	tutaper	_	_	_	_	_	_	_	_
 8	tuta	_	NOUN	_	Case=Abl|Number=Sing	5	conj	_	_
-9	per	_	ADP	_	_	8	case	_	_
+9	per	per	ADP	_	_	8	case	_	_
 10	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	8	amod	_	_
 11	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
@@ -58,7 +58,7 @@
 # sent_id =	IKUVINA-I-7
 # text = pusveres treplanes tref sif kumiaf feitu trebe iuvie ukriper fisiu tutaper ikuvina
 1-2	pusveres	_	_	_	_	_	_	_	_
-1	pust	_	ADP	_	_	2	case	_	_
+1	pust	post	ADP	_	_	2	case	_	_
 2	veres	_	NOUN	_	Case=Abl|Number=Plur	7	obl	_	_
 3	treplanes	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 4	tref	_	NUM	_	_	5	nummod	_	_
@@ -69,11 +69,11 @@
 9	iuvie	_	ADJ	_	Case=Dat|Number=Sing	8	amod	_	_
 10-11	ukriper	_	_	_	_	_	_	_	_
 10	ukri	_	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
-11	per	_	ADP	_	_	10	case	_	_
+11	per	per	ADP	_	_	10	case	_	_
 12	fisiu	_	ADJ	_	Case=Abl|Number=Sing	10	amod	_	_
 13-14	tutaper	_	_	_	_	_	_	_	_
 13	tuta	_	NOUN	_	Case=Abl|Number=Sing	10	conj	_	_
-14	per	_	ADP	_	_	13	case	_	_
+14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
 # sent_id =	IKUVINA-I-8
@@ -101,7 +101,7 @@
 # sent_id =	IKUVINA-I-12
 # text = preveres tesenakes tre buf fetu marte krapuvi fetu ukripe fisiu tutaper ikuvina
 1-2	preveres	_	_	_	_	_	_	_	_
-1	pre	_	ADP	_	_	2	case	_	_
+1	pre	pre	ADP	_	_	2	case	_	_
 2	veres	_	NOUN	_	Case=Abl|Number=Plur	6	obl	_	_
 3	tesenakes	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 4	tre	_	NUM	_	_	5	nummod	_	_
@@ -112,11 +112,11 @@
 9	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	6	conj	_	_
 10-11	ukripe	_	_	_	_	_	_	_	_
 10	ukri	_	NOUN	_	Case=Abl|Number=Sing	9	obl	_	_
-11	per	_	ADP	_	_	10	case	_	_
+11	pe	per	ADP	_	_	10	case	_	_
 12	fisiu	_	ADJ	_	Case=Abl|Number=Sing	10	amod	_	_
 13-14	tutaper	_	_	_	_	_	_	_	_
 13	tuta	_	NOUN	_	Case=Abl|Number=Sing	10	conj	_	_
-14	per	_	ADP	_	_	13	case	_	_
+14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
 # sent_id =	IKUVINA-I-13
@@ -145,7 +145,7 @@
 # sent_id =	IKUVINA-I-17
 # text = pusveres tesenakes tref sif feliuf fetu fise saçi ukriper fisiu tutaper ikuvina
 1-2	pusveres	_	_	_	_	_	_	_	_
-1	pust	_	ADP	_	_	2	case	_	_
+1	pust	post	ADP	_	_	2	case	_	_
 2	veres	_	NOUN	_	Case=Abl|Number=Plur	7	obl	_	_
 3	tesenakes	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 4	tref	_	NUM	_	_	5	nummod	_	_
@@ -156,11 +156,11 @@
 9	saçi	_	PROPN	_	_	8	amod	_	_
 10-11	ukriper	_	_	_	_	_	_	_	_
 10	ukri	_	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
-11	per	_	ADP	_	_	10	case	_	_
+11	per	per	ADP	_	_	10	case	_	_
 12	fisiu	_	ADJ	_	Case=Abl|Number=Sing	10	amod	_	_
 13-14	tutaper	_	_	_	_	_	_	_	_
 13	tuta	_	NOUN	_	Case=Abl|Number=Sing	10	conj	_	_
-14	per	_	ADP	_	_	13	case	_	_
+14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
 # sent_id =	IKUVINA-I-18
@@ -193,7 +193,7 @@
 # text = ukriper fisiu fetu
 1-2	ukriper	_	_	_	_	_	_	_	_
 1	ukri	_	NOUN	_	Case=Abl|Number=Sing	4	obl	_	_
-2	per	_	ADP	_	_	1	case	_	_
+2	per	per	ADP	_	_	1	case	_	_
 3	fisiu	_	ADJ	_	Case=Abl|Number=Sing	1	amod	_	_
 4	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
@@ -208,7 +208,7 @@
 7	sakref	_	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	6	amod	_	_
 8-9	tutaper	_	_	_	_	_	_	_	_
 8	tuta	_	NOUN	_	Case=Abl|Number=Sing	1	orphan	_	_
-9	per	_	ADP	_	_	8	case	_	_
+9	per	per	ADP	_	_	8	case	_	_
 10	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	8	amod	_	_
 
 # sent_id =	IKUVINA-I-25
@@ -221,7 +221,7 @@
 # sent_id =	IKUVINA-I-26
 # text = preveres vehiies tref buf kaleřuf fetu vufiune krapuvi ukriper fisiu tutaper ikuvina
 1-2	preveres	_	_	_	_	_	_	_	_
-1	pre	_	ADP	_	_	2	case	_	_
+1	pre	pre	ADP	_	_	2	case	_	_
 2	veres	_	NOUN	_	Case=Abl|Number=Plur	7	obl	_	_
 3	vehiies	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 4	tref	_	NUM	_	_	5	nummod	_	_
@@ -232,11 +232,11 @@
 9	krapuvi	_	ADJ	_	_	8	amod	_	_
 10-11	ukriper	_	_	_	_	_	_	_	_
 10	ukri	_	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
-11	per	_	ADP	_	_	10	case	_	_
+11	per	per	ADP	_	_	10	case	_	_
 12	fisiu	_	ADJ	_	Case=Abl|Number=Sing	10	amod	_	_
 13-14	tutaper	_	_	_	_	_	_	_	_
 13	tuta	_	NOUN	_	Case=Abl|Number=Sing	10	conj	_	_
-14	per	_	ADP	_	_	13	case	_	_
+14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
 # sent_id =	IKUVINA-I-27
@@ -264,7 +264,7 @@
 # sent_id =	IKUVINA-I-30
 # text = pusveres vehiies tref hapinaf fetu tefre iuvie ukriper fisiu tutaper ikuvina
 1-2	pusveres	_	_	_	_	_	_	_	_
-1	pust	_	ADP	_	_	2	case	_	_
+1	pust	post	ADP	_	_	2	case	_	_
 2	veres	_	NOUN	_	Case=Abl|Number=Plur	6	obl	_	_
 3	vehiies	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 4	tref	_	NUM	_	_	5	nummod	_	_
@@ -274,17 +274,17 @@
 8	iuvie	_	ADJ	_	Case=Dat|Number=Sing	7	amod	_	_
 9-10	ukriper	_	_	_	_	_	_	_	_
 9	ukri	_	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
-10	per	_	ADP	_	_	9	case	_	_
+10	per	per	ADP	_	_	9	case	_	_
 11	fisiu	_	ADJ	_	Case=Abl|Number=Sing	9	amod	_	_
 12-13	tutaper	_	_	_	_	_	_	_	_
 12	tuta	_	NOUN	_	Case=Abl|Number=Sing	9	conj	_	_
-13	per	_	ADP	_	_	12	case	_	_
+13	per	per	ADP	_	_	12	case	_	_
 14	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	12	amod	_	_
 
 # sent_id =	IKUVINA-I-31
 # text = puste asiane fetu
-1	puste	_	ADP	_	_	2	case	_	_
-2	asiane	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+1	puste	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+2	asiane	_	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	1	amod	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id =	IKUVINA-I-32
@@ -337,18 +337,18 @@
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 4-5	ukriper	_	_	_	_	_	_	_	_
 4	ukri	_	NOUN	_	Case=Abl|Number=Sing	3	obl	_	_
-5	per	_	ADP	_	_	4	case	_	_
+5	per	pere	ADP	_	_	4	case	_	_
 6	fisiu	_	ADJ	_	Case=Abl|Number=Sing	4	amod	_	_
 7-8	tutaper	_	_	_	_	_	_	_	_
 7	tuta	_	NOUN	_	Case=Abl|Number=Sing	4	conj	_	_
-8	per	_	ADP	_	_	7	case	_	_
+8	per	per	ADP	_	_	7	case	_	_
 9	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	7	amod	_	_
 
 # sent_id =	IKUVINA-I-40
 # text = testruku peři kapiře peřum feitu
 1-2	testruku	_	_	_	_	_	_	_	_
 1	testru	_	ADJ	_	_	3	amod	_	_
-2	ku	_	ADP	_	_	3	case	_	_
+2	ku	com	ADP	_	_	3	case	_	_
 3	peři	_	NOUN	_	_	6	obl	_	_
 4	kapiře	_	NOUN	_	_	6	iobj	_	_
 5	peřum	_	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
@@ -375,11 +375,11 @@
 # text = ukriper fisiu tutaper ikuvina feitu
 1-2	ukriper	_	_	_	_	_	_	_	_
 1	ukri	_	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
-2	per	_	ADP	_	_	1	case	_	_
+2	per	per	ADP	_	_	1	case	_	_
 3	fisiu	_	ADJ	_	Case=Abl|Number=Sing	1	amod	_	_
 4-5	tutaper	_	_	_	_	_	_	_	_
 4	tuta	_	NOUN	_	Case=Abl|Number=Sing	1	conj	_	_
-5	per	_	ADP	_	_	4	case	_	_
+5	per	per	ADP	_	_	4	case	_	_
 6	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	4	amod	_	_
 7	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
@@ -387,7 +387,7 @@
 # text = nertruku peři kapiře peřum feitu
 1-2	nertruku	_	_	_	_	_	_	_	_
 1	nertru	_	ADJ	_	_	3	amod	_	_
-2	ku	_	ADP	_	_	3	case	_	_
+2	ku	com	ADP	_	_	3	case	_	_
 3	peři	_	NOUN	_	_	6	obl	_	_
 4	kapiře	_	NOUN	_	_	6	iobj	_	_
 5	peřum	_	NOUN	_	_	6	obj	_	_
@@ -423,7 +423,7 @@
 # text = vukukum iuviu pune uvef furfaθ tref vitluf turuf marte huřie fetu pupluper tutas iiuvinas tutaper ikuvina
 1-2	vukukum	_	_	_	_	_	_	_	_
 1	vuku	_	NOUN	_	_	12	obl	_	_
-2	kum	_	ADP	_	_	1	case	_	_
+2	kum	com	ADP	_	_	1	case	_	_
 3	iuviu	_	PROPN	_	_	1	nmod	_	_
 4	pune	_	SCONJ	_	_	6	mark	_	_
 5	uvef	_	NOUN	_	Case=Acc|Number=Plur	6	obj	_	_
@@ -436,12 +436,12 @@
 12	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 13-14	pupluper	_	_	_	_	_	_	_	_
 13	puplu	_	NOUN	_	Case=Abl|Number=Sing	12	obl	_	_
-14	per	_	ADP	_	_	13	case	_	_
+14	per	per	ADP	_	_	13	case	_	_
 15	tutas	_	NOUN	_	Case=Gen	13	nmod	_	_
 16	iiuvinas	_	ADJ	_	Case=Gen	15	amod	_	_
 17-18	tutaper	_	_	_	_	_	_	_	_
 17	tuta	_	NOUN	_	Case=Abl|Number=Sing	13	conj	_	_
-18	per	_	ADP	_	_	17	case	_	_
+18	per	per	ADP	_	_	17	case	_	_
 19	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	17	amod	_	_
 
 # sent_id =	IKUVINA-I-50
@@ -471,7 +471,7 @@
 # text = vukukum kureties tref vitlup turup hunte çerfi feitu pupluper tutas iiuvinas tutaper iiuvina
 1-2	vukukum	_	_	_	_	_	_	_	_
 1	vuku	_	NOUN	_	_	9	obl	_	_
-2	kum	_	ADP	_	_	1	case	_	_
+2	kum	com	ADP	_	_	1	case	_	_
 3	kureties	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 4	tref	_	NUM	_	_	6	nummod	_	_
 5	vitlup	_	ADJ	_	_	6	amod	_	_
@@ -481,12 +481,12 @@
 9	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 10-11	pupluper	_	_	_	_	_	_	_	_
 10	puplu	_	NOUN	_	Case=Abl|Number=Sing	9	obl	_	_
-11	per	_	ADP	_	_	10	case	_	_
+11	per	per	ADP	_	_	10	case	_	_
 12	tutas	_	NOUN	_	_	10	nmod	_	_
 13	iiuvinas	_	ADJ	_	_	12	amod	_	_
 14-15	tutaper	_	_	_	_	_	_	_	_
 14	tuta	_	NOUN	_	Case=Abl|Number=Sing	10	conj	_	_
-15	per	_	ADP	_	_	14	case	_	_
+15	per	per	ADP	_	_	14	case	_	_
 16	iiuvina	_	ADJ	_	Case=Abl|Number=Sing	14	amod	_	_
 
 # sent_id =	IKUVINA-I-55
@@ -537,7 +537,7 @@
 5	antervakaze	_	VERB	_	_	6	advcl	_	(anter:vakaze)
 6-7	vaçetumi	_	_	_	_	_	_	_	_
 6	vaçetum	_	NOUN	_	Case=Acc	0	root	_	_
-7	i	em	ADP	_	_	6	case	_	_
+7	i	e	ADP	_	_	6	case	_	_
 8	se	_	AUX	_	_	6	cop	_	obscure
 
 # sent_id =	IKUVINA-I-62
@@ -546,7 +546,7 @@
 2	azeriatu	_	VERB	_	_	6	advcl	_	_
 3-4	verufe	_	_	_	_	_	_	_	_
 3	veruf	_	NOUN	_	_	6	obl	_	_
-4	e	em	ADP	_	_	3	case	_	_
+4	e	e	ADP	_	_	3	case	_	_
 5	treplanu	_	ADJ	_	_	3	amod	_	_
 6	kuvertu	_	VERB	_	_	0	root	_	_
 
@@ -581,7 +581,7 @@
 2	pir	_	NOUN	_	_	5	obj	_	_
 3-4	ahtimem	_	_	_	_	_	_	_	_
 3	ahtim	_	NOUN	_	_	5	obl	_	_
-4	em	em	ADP	_	_	3	case	_	_
+4	em	e	ADP	_	_	3	case	_	_
 5	ententu	_	VERB	2SImF	_	0	root	_	_
 
 # sent_id =	IKUVINA-I-67
@@ -591,7 +591,7 @@
 3	entelus	_	VERB	_	_	7	advcl	_	_
 4-5	ahtimem	_	_	_	_	_	_	_	_
 4	ahtim	_	NOUN	_	_	3	obl	_	_
-5	em	em	ADP	_	_	4	case	_	_
+5	em	e	ADP	_	_	4	case	_	_
 6	enumek	_	ADV	_	_	7	advmod	_	_
 7	steplatu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 8	parfam	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
@@ -604,10 +604,10 @@
 # text = vapefem avieklufe kumpifiatu
 1-2	vapefem	_	_	_	_	_	_	_	_
 1	vapef	_	NOUN	_	_	5	obl	_	_
-2	em	em	ADP	_	_	1	case	_	_
+2	em	e	ADP	_	_	1	case	_	_
 3-4	avieklufe	_	_	_	_	_	_	_	_
 3	aviekluf	_	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	1	amod	_	_
-4	em	_	ADP	_	_	3	case	_	_
+4	em	e	ADP	_	_	3	case	_	_
 5	kumpifiatu	_	VERB	3SImpv	_	0	root	_	_
 
 # sent_id =	IKUVINA-I-69
@@ -616,7 +616,7 @@
 2	aviekla	_	ADJ	_	_	1	amod	_	_
 3-4	esunume	_	_	_	_	_	_	_	_
 3	esunum	_	NOUN	_	Case=Acc	5	obj	_	_
-4	e	em	ADP	_	_	3	case	_	_
+4	e	e	ADP	_	_	3	case	_	_
 5	etu	_	VERB	2SImF	_	0	root	_	_
 
 # sent_id =	IKUVINA-I-70
@@ -636,7 +636,7 @@
 2	menes	_	VERB	_	Mood=Ind|Number=Sing|Person=2	6	advcl	_	_
 3-4	akeřuniamem	_	_	_	_	_	_	_	_
 3	akeřuniam	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
-4	em	em	ADP	_	_	3	case	_	_
+4	em	e	ADP	_	_	3	case	_	_
 5	enumek	_	ADV	_	_	6	advmod	_	_
 6	etuřstamu	_	VERB	_	_	0	root	_	_
 7	tuta	_	NOUN	_	_	6	obj	_	_
@@ -677,7 +677,7 @@
 3	staheren	_	VERB	_	Number=Plur|Person=3|Tense=Fut	7	advcl	_	_
 4-5	termnesku	_	_	_	_	_	_	_	_
 4	termnes	_	NOUN	_	_	3	obl	_	_
-5	ku	_	ADP	_	_	4	case	_	_
+5	ku	com	ADP	_	_	4	case	_	_
 6	enumek	_	ADV	_	_	7	advmod	_	_
 7	ařmanu	_	VERB	_	_	0	root	_	_
 8	kateramu	_	VERB	_	_	7	conj	_	_
@@ -738,7 +738,7 @@
 # text = funtlere trif apruf rufru ute peiu feitu çerfe marti
 1-2	funtlere	_	_	_	_	_	_	_	_
 1	funtler	_	PROPN	_	_	8	obl	_	_
-2	e	em	ADP	_	_	1	case	_	_
+2	e	e	ADP	_	_	1	case	_	_
 3	trif	_	NUM	_	_	4	nummod	_	_
 4	apruf	_	NOUN	_	_	8	obj	_	_
 5	rufru	_	ADJ	_	_	4	amod	_	_
@@ -774,7 +774,7 @@
 # sent_id =	IKUVINA-I-89
 # text = rupinie e tre purka rufra ute peia fetu prestate çerfie çerfe marties
 1	rupinie	_	PROPN	_	_	8	obl	_	_
-2	e	em	ADP	_	_	1	case	_	_
+2	e	e	ADP	_	_	1	case	_	_
 3	tre	_	NUM	_	_	4	nummod	_	_
 4	purka	_	NOUN	_	_	8	obj	_	_
 5	rufra	_	ADJ	_	_	4	amod	_	_
@@ -823,7 +823,7 @@
 
 # sent_id =	IKUVINA-I-96
 # text = tra sate tref vitlaf feitu tuse çerfie çerfe marties
-1	tra	_	ADP	_	_	2	case	_	_
+1	tra	tra	ADP	_	_	2	case	_	_
 2	sate	_	PROPN	_	Case=Loc|Number=Sing	5	obl	_	_
 3	tref	_	NUM	_	_	4	nummod	_	_
 4	vitlaf	_	NOUN	_	Case=Acc|Number=Plur	5	obj	_	_
@@ -876,14 +876,14 @@
 5	kupifiatu	_	VERB	_	_	0	root	_	_
 6-7	rupiname	_	_	_	_	_	_	_	_
 6	rupinam	_	PROPN	_	Case=Acc|Number=Sing	9	obl	_	_
-7	e	em	ADP	_	_	6	case	_	_
+7	e	e	ADP	_	_	6	case	_	_
 8	erus	_	NOUN	_	_	9	obj	_	_
 9	teřa	_	VERB	_	_	5	ccomp	_	_
 
 # sent_id =	IKUVINA-I-103
 # text = ene tra sahta kupifiaia erus teřa
 1	ene	_	ADV	_	_	4	advmod	_	_
-2	tra	_	ADP	_	_	3	case	_	_
+2	tra	tra	ADP	_	_	3	case	_	_
 3	sahta	_	PROPN	_	_	4	obl	_	_
 4	kupifiaia	_	VERB	_	_	0	root	_	_
 5	erus	_	NOUN	_	_	6	obj	_	_
@@ -894,7 +894,7 @@
 1	enu	_	ADV	_	_	5	advmod	_	_
 2-3	rupiname	_	_	_	_	_	_	_	_
 2	rupinam	_	PROPN	_	_	5	obl	_	_
-3	e	em	ADP	_	_	2	case	_	_
+3	e	e	ADP	_	_	2	case	_	_
 4	pustru	_	ADV	_	_	5	advmod	_	_
 5	kuvertu	_	VERB	_	_	0	root	_	_
 
@@ -921,7 +921,7 @@
 1	enu	_	ADV	_	_	4	advmod	_	_
 2-3	satame	_	_	_	_	_	_	_	_
 2	satam	_	PROPN	_	_	4	obl	_	_
-3	e	em	ADP	_	_	2	case	_	_
+3	e	e	ADP	_	_	2	case	_	_
 4	kuvertu	_	VERB	_	_	0	root	_	_
 
 # sent_id =	IKUVINA-I-109
@@ -940,7 +940,7 @@
 # sent_id =	IKUVINA-I-111
 # text = pustertiu pane puplu ateřafust iveka perakre tusetu super kumne
 1-2	pustertiu	_	_	_	_	_	_	_	_
-1	pust	_	ADP	_	_	2	case	_	_
+1	pust	post	ADP	_	_	2	case	_	_
 2	tertiu	_	ADJ	_	_	5	obl	_	_
 3	pane	_	SCONJ	_	_	5	mark	_	_
 4	puplu	_	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
@@ -948,7 +948,7 @@
 6	iveka	_	NOUN	_	_	8	obj	_	_
 7	perakre	_	ADJ	_	_	6	amod	_	_
 8	tusetu	_	VERB	_	_	0	root	_	orig=tuseiu
-9	super	_	ADP	_	_	10	case	_	_
+9	super	super	ADP	_	_	10	case	_	_
 10	kumne	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
 
 # sent_id =	IKUVINA-I-112
@@ -960,7 +960,7 @@
 
 # sent_id =	IKUVINA-I-113
 # text = hutra furu sehmeniar hatutu
-1	hutra	_	ADP	_	_	2	case	_	_
+1	hutra	hondra	ADP	_	_	2	case	_	_
 2	furu	_	NOUN	_	Case=Acc|Number=Sing	4	obl	_	_
 3	sehmeniar	_	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
 4	hatutu	_	VERB	_	Mood=Imp|Number=Plur|Person=3	0	root	_	_
