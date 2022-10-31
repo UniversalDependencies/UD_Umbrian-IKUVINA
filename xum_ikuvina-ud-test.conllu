@@ -1068,7 +1068,7 @@
 2	pihaklu	_	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
 3	pune	_	SCONJ	_	_	4	mark	_	_
 4	tribřiçu	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	advcl	_	_
-5	fuiest	fuiom	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	cop	_	_
+5	fuiest	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	cop	_	_
 6	akrutu	_	ADV	_	_	7	advmod	_	_
 7	revestu	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Fut	0	root	_	_
 8	emantu	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	7	ccomp	_	_
@@ -1079,7 +1079,7 @@
 1	ařfertur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 2	pisi	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	_
 3	pumpe	_	ADV	_	_	2	advmod	_	_
-4	fust	fuiom	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	cop	_	_
+4	fust	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	cop	_	_
 5	erek	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing	13	expl	_	_
 6-7	esunesku	_	_	_	_	_	_	_	_
 6	esunes	_	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	13	obl	_	_
@@ -1145,7 +1145,7 @@
 1	et	_	CCONJ	_	_	7	cc	_	_
 2	ape	_	SCONJ	_	_	4	mark	_	_
 3	subra	_	ADV	_	_	4	advmod	_	_
-4	spafu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Voice=Pass|VerbForm=Part	7	advcl	_	_
+4	spafu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	_
 5	fust	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	aux	_	_
 6	muneklu	_	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
 7	habia	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
@@ -1159,7 +1159,7 @@
 1	et	_	CCONJ	_	_	7	cc	_	_
 2	ape	_	SCONJ	_	_	4	mark	_	_
 3	frater	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-4	çersnatur	_	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Voice=Pass|VerbForm=Part	7	advcl	_	_
+4	çersnatur	_	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	_
 5	furent	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	4	aux	_	_
 6	ehvelklu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
 7	feia	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
@@ -1168,7 +1168,7 @@
 10	kvestur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
 11	sve	_	SCONJ	_	_	13	mark	_	_
 12	rehte	_	ADV	_	_	13	advmod	_	_
-13	kuratu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Voice=Pass|VerbForm=Part	7	ccomp	_	_
+13	kuratu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	ccomp	_	_
 14	si	erom	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	13	aux	_	_
 
 # sent_id =	IKUVINA-V-UM-12
@@ -1184,7 +1184,7 @@
 9	prusikurent	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut	14	advcl	_	_
 10	rehte	_	ADV	_	_	11	advmod	_	_
 11	kuratu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	ccomp	_	_
-12	eru	erom	AUX	_	VerbForm=Inf|Tense=Pres	11	aux	_	_
+12	eru	erom	AUX	_	Tense=Pres|VerbForm=Inf	11	aux	_	_
 13	eřek	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
 14	prufe	_	ADV	_	_	0	root	_	_
 15	si	erom	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	14	cop	_	_
@@ -1203,7 +1203,7 @@
 10	kuratu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	ccomp	_	_
 11	rehte	_	ADV	_	_	10	advmod	_	_
 12	neip	_	ADV	_	_	10	advcl	_	_
-13	eru	erom	AUX	_	VerbForm=Inf|Tense=Pres	10	aux	_	_
+13	eru	erom	AUX	_	Tense=Pres|VerbForm=Inf	10	aux	_	_
 14	enuk	_	ADV	_	_	17	advmod	_	_
 15	fratru	_	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
 16	ehvelklu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
@@ -1228,10 +1228,11 @@
 8	ulu	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
 9	benurent	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut	3	acl:relcl	_	_
 10	ařferture	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
-11	eru	erom	AUX	_	VerbForm=Inf|Tense=Pres	13	ccomp	_	_
+11	eru	erom	AUX	_	Tense=Pres|VerbForm=Inf	13	ccomp	_	_
 12	pepurkurent	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut	14	advcl	_	_
-13	herifi	_	VERB	_	VerbForm=Inf|Tense=Pres|Voice=Pass	12	ccomp	_	_
+13	herifi	_	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Pass	12	ccomp	_	_
 14	etantu	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	_
 15	mutu	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
 16	ařferture	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 17	si	erom	AUX	_	_	16	cop	_	_
+
