@@ -22,7 +22,7 @@ Specific information about the analysis can be found on the language doc page.
 |II     |       |      |          |      |           |
 |III    |       |      |          |      |           |
 |IV     |       |      |          |      |           |
-|V um   |       |      |          |      |           |
+|V um   | Part  | Done | Done     | Done | Done      |
 |V la   |       |      |          |      |           |
 |VI     |       |      |          |      |           |
 |VII    |       |      |          |      |           |
@@ -40,6 +40,10 @@ This treebank is maintained by Mathieu Dehouck.
 * (citation) -->
 
 # Changelog
+
+* 2022-10-31 v2.11
+  * added Umbrian section of Tablet V,
+  * changed the relation of "anzeriates" in tablet I sentence 1 from [dep] to [acl].
 
 * 2022-05-15 v2.10
   * Initial release in Universal Dependencies.
