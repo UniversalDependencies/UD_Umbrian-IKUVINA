@@ -1688,7 +1688,7 @@
 5-6	skalçeta	_	_	_	_	_	_	_	_
 5	skalçe	_	NOUN	_	Case=Abl|Number=Sing.	15	obl	_	_
 6	ta	_	ADP	_	_	5	case	_	_
-7	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	acl	_	_
+7	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	advcl	_	_
 8	apehtre	_	ADV	_	_	15	advmod	_	_
 9	esuf	_	ADV	_	_	15	advmod	_	_
 10	testru	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	_
@@ -1717,7 +1717,7 @@
 8-9	skalçeta	_	_	_	_	_	_	_	_
 8	skalçe	_	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	11	obl	_	_
 9	ta	_	ADP	_	_	8	case	_	_
-10	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	acl	_	_
+10	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	advcl	_	_
 11	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
 # sent_id =	IKUVINA-III-IV-53
@@ -1732,7 +1732,7 @@
 8-9	skalçeta	_	_	_	_	_	_	_	_
 8	skalçe	_	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	11	obl	_	_
 9	ta	_	ADP	_	_	8	case	_	_
-10	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	acl	_	_
+10	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	advcl	_	_
 11	purtuviθu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
 # sent_id =	IKUVINA-III-IV-54
