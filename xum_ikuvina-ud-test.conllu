@@ -572,7 +572,7 @@
 # text = pune kuvurtus krenkatrum hatu
 1	pune	_	SCONJ	_	_	2	mark	_	_
 2	kuvurtus	_	VERB	_	_	4	advcl	_	_
-3	krenkatrum	_	NOUN	_	acc.sg.nt.	4	obj	_	_
+3	krenkatrum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 4	hatu	_	VERB	_	_	0	root	_	_
 
 # sent_id =	IKUVINA-I-66
