@@ -1268,7 +1268,7 @@
 11	kumnakle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	2	acl:relcl	_	_
 
 # sent_id = IKUVINA-III-IV-4
-# text = (i)inuk uhtur vapeře kumnakle sistu
+# text = inuk uhtur vapeře kumnakle sistu
 1	inuk	_	ADV	_	_	5	advmod	_	(iinuk)
 2	uhtur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 3	vapeře	_	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
@@ -1323,7 +1323,7 @@
 5	aituta	_	VERB	_	Mood=Imp|Number=Plur|Person=3	4	conj	_	_
 
 # sent_id = IKUVINA-III-IV-11
-# text = arven (arvamen) kletram amparitu
+# text = arven kletram amparitu
 1-2	arven	_	_	_	_	_	_	_	(arvamen)
 1	arvam	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
 2	en	_	ADP	_	_	1	case	_	_
@@ -1381,7 +1381,7 @@
 # sent_id = IKUVINA-III-IV-19
 # text = feřehtru etres tris ahesnes astintu
 1	feřehtru	_	NOUN	_	Case=Acc	5	obj	_	_
-2	etres	_	ADJPRON	_	Case=Abl|Number=Plur	5	obl	_	_
+2	etres	_	PRON	_	Case=Abl|Number=Plur	5	obl	_	_
 3	tris	_	NUM	_	Case=Abl|Number=Plur	2	nummod	_	_
 4	ahesnes	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 5	astintu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
@@ -1515,7 +1515,7 @@
 1-2	eruku	_	_	_	_	_	_	_	_
 1	eru	_	PRON	_	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
 2	ku	com	ADP	_	_	1	case	_	_
-3	aruvia	_	NOUN	_	Case=Acc|Gender=Neuter|Number=Plur	4	obj	_	_
+3	aruvia	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 4	feitu	façiu	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = IKUVINA-III-IV-33
@@ -1616,7 +1616,7 @@
 5	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = IKUVINA-III-IV-44
-# text = asamař ereçlamař aseçetes karnus iseçeles et • vempesuntres supes sanes pertentu
+# text = asamař ereçlamař aseçetes karnus iseçeles et vempesuntres supes sanes pertentu
 1-2	asamař	_	_	_	_	_	_	_	_
 1	asam	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
 2	ař	_	ADP	_	_	1	case	_	_
@@ -1688,7 +1688,7 @@
 3	mefa	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
 4	purtupite	_	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	15	iobj	_	_
 5-6	skalçeta	_	_	_	_	_	_	_	_
-5	skalçe	_	NOUN	_	Case=Abl|Number=Sing.	15	obl	_	_
+5	skalçe	_	NOUN	_	Case=Abl|Number=Sing	15	obl	_	_
 6	ta	_	ADP	_	_	5	case	_	_
 7	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	advcl	_	_
 8	apehtre	_	ADV	_	_	15	advmod	_	_
@@ -1712,7 +1712,7 @@
 2	vesteça	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
 3	persuntru	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	case	_	_
 4	supu	_	ADP	_	_	5	case	_	_
-5	ereçle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_	_
+5	ereçle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
 6	hule	_	PROPN	_	Case=Dat|Number=Sing	11	iobj	_	_
 7	sevakne	_	ADJ	_	Case=Abl|Gender=Neut|Number=Sing	8	amod	_	_
 8-9	skalçeta	_	_	_	_	_	_	_	_
@@ -1728,7 +1728,7 @@
 3	persuntru	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	_
 4	turse	_	PROPN	_	Case=Dat|Genrder=Fem|Number=Sing	11	iobj	_	_
 5	super	_	ADP	_	_	6	case	_	_
-6	ereçle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_	_
+6	ereçle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
 7	sevakne	_	ADJ	_	Case=Abl|Gender=Neut|Number=Sing	8	amod	_	_
 8-9	skalçeta	_	_	_	_	_	_	_	_
 8	skalçe	_	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	11	obl	_	_
@@ -1739,7 +1739,7 @@
 # sent_id = IKUVINA-III-IV-55
 # text = inumek tehteřim etu veltu
 1	inumek	_	ADV	_	_	4	advmod	_	_
-2	tehteřim	_	NOUN	_	Case=Acc|Number=Sing.	3	obj	_	_
+2	tehteřim	_	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 3	etu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 4	veltu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	3	conj	_	_
 
@@ -1836,7 +1836,7 @@
 1	ap	_	SCONJ	_	_	3	mark	_	_
 2	itek	_	ADV	_	_	3	advmod	_	_
 3	fakust	façiu	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	advcl	_	_
-4	purtitu	_	VERB	_	|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	purtitu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 5	futu	fuiom	VERB	_	Mood=Imp|Number=Sing|Person=3	4	aux	_	_
 
 # sent_id = IKUVINA-III-IV-69
