@@ -1662,7 +1662,7 @@
 
 # sent_id = IKUVINA-III-IV-49
 # text = klavles persnihmu puemune pupřike et vesune puemunes pupřikes pustin ereçlu 
-1	klavles	_	NOUN	_	Case=AblGender=Fem|Number=Plur	2	obl	_	_
+1	klavles	_	NOUN	_	Case=Abl|Gender=Fem|Number=Plur	2	obl	_	_
 2	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 3	puemune	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	_
 4	pupřike	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	flat	_	_
