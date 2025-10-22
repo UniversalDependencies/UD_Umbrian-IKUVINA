@@ -1429,7 +1429,7 @@
 3	upetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = IKUVINA-III-IV-25
-# text = ampentu testru sese asa fratrusper atiieřies ahtisper eikvasatis tutape iiuvina trefiper iiuvina
+# text = iuvepatre prumu ampentu testru sese asa fratrusper atiieřies ahtisper eikvasatis tutape iiuvina trefiper iiuvina
 1	iuvepatre	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	_
 2	prumu	_	ADV	_	_	3	advmod	_	_
 3	ampentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
@@ -1497,7 +1497,7 @@
 12-13	tutaper	_	_	_	_	_	_	_	_
 12	tuta	_	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	6	conj	_	_
 13	per	per	ADP	_	_	12	case	_	_
-14	iiuvina	_	ADJ	_	Case=Abl|Gender=Fem|Number=Sing	13	amod	_	_
+14	iiuvina	_	ADJ	_	Case=Abl|Gender=Fem|Number=Sing	12	amod	_	_
 15-16	trefiper	_	_	_	_	_	_	_	_
 15	trefi	_	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	6	conj	_	_
 16	per	per	ADP	_	_	15	case	_	_
