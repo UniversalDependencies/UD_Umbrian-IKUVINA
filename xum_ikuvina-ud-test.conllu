@@ -1,4 +1,4 @@
-# sent_id =	IKUVINA-I-1
+# sent_id = IKUVINA-I-1
 # text = este persklum aves anzeriates enetu pernaies pusnaes
 1	este	_	DET	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
@@ -8,7 +8,7 @@
 6	pernaies	_	ADJ	_	Case=Abl|Number=Plur	3	amod	_	_
 7	pusnaes	_	ADJ	_	Case=Abl|Number=Plur	6	conj	_	_
 
-# sent_id =	IKUVINA-I-2
+# sent_id = IKUVINA-I-2
 # text = preveres treplanes iuve krapuvi tre buf fetu
 1-2	preveres	_	_	_	_	_	_	_	_
 1	pre	pre	ADP	_	_	2	case	_	_
@@ -20,18 +20,18 @@
 7	buf	_	NOUN	_	Case=Acc|Number=Plur	8	obj	_	_
 8	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-3
+# sent_id = IKUVINA-I-3
 # text = arvia ustentu
 1	arvia	_	NOUN	_	Case=Acc|Number=Plur	2	obl	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-4
+# sent_id = IKUVINA-I-4
 # text = vatuva ferine feitu
 1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
 2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-5
+# sent_id = IKUVINA-I-5
 # text = heris vinu heri puni ukriper fisiu tutaper ikuvina feitu
 1	heris	_	CCONJ	_	_	2	cc	_	_
 2	vinu	_	NOUN	_	Case=Abl|Number=Sing	11	obl	_	_
@@ -47,7 +47,7 @@
 10	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	8	amod	_	_
 11	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-6
+# sent_id = IKUVINA-I-6
 # text = sevum kutef pesnimu ařepes arves
 1	sevum	_	PRON	_	Case=Acc|Number=Sing	3	obj	_	_
 2	kutef	_	VERB	_	Tense=Pres|VerbForm=Part	3	advcl	_	_
@@ -55,7 +55,7 @@
 4	ařepes	_	NOUN	_	Case=Abl|Number=Plur	3	obl	_	_
 5	arves	_	NOUN	_	Case=Abl|Number=Plur	4	conj	_	_
 
-# sent_id =	IKUVINA-I-7
+# sent_id = IKUVINA-I-7
 # text = pusveres treplanes tref sif kumiaf feitu trebe iuvie ukriper fisiu tutaper ikuvina
 1-2	pusveres	_	_	_	_	_	_	_	_
 1	pust	post	ADP	_	_	2	case	_	_
@@ -76,29 +76,29 @@
 14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
-# sent_id =	IKUVINA-I-8
+# sent_id = IKUVINA-I-8
 # text = supa sumtu
 1	supa	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
 2	sumtu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-9
+# sent_id = IKUVINA-I-9
 # text = arvia ustentu
 1	arvia	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-10
+# sent_id = IKUVINA-I-10
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-11
+# sent_id = IKUVINA-I-11
 # text = kutef pesnimu ařepes arves
 1	kutef	_	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařepes	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-12
+# sent_id = IKUVINA-I-12
 # text = preveres tesenakes tre buf fetu marte krapuvi fetu ukripe fisiu tutaper ikuvina
 1-2	preveres	_	_	_	_	_	_	_	_
 1	pre	pre	ADP	_	_	2	case	_	_
@@ -119,30 +119,30 @@
 14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
-# sent_id =	IKUVINA-I-13
+# sent_id = IKUVINA-I-13
 # text = arviu ustentu
 1	arviu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-14
+# sent_id = IKUVINA-I-14
 # text = vatuva ferine fetu
 1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
 2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-15
+# sent_id = IKUVINA-I-15
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-16
+# sent_id = IKUVINA-I-16
 # text = kutef pesnimu ařepes arves
 1	kutef	_	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařepes	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-17
+# sent_id = IKUVINA-I-17
 # text = pusveres tesenakes tref sif feliuf fetu fise saçi ukriper fisiu tutaper ikuvina
 1-2	pusveres	_	_	_	_	_	_	_	_
 1	pust	post	ADP	_	_	2	case	_	_
@@ -163,33 +163,33 @@
 14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
-# sent_id =	IKUVINA-I-18
+# sent_id = IKUVINA-I-18
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-19
+# sent_id = IKUVINA-I-19
 # text = supa sumtu
 1	supa	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
 2	sumtu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-20
+# sent_id = IKUVINA-I-20
 # text = arviu ustentu
 1	arviu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-21
+# sent_id = IKUVINA-I-21
 # text = mefa vestiça ustetu
 1	mefa	_	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 2	vestiça	_	NOUN	_	Case=Acc|Number=Sing	1	conj	_	_
 3	ustetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-22
+# sent_id = IKUVINA-I-22
 # text = fisuvi fetu
 1	fisuvi	_	PROPN	_	Case=Dat	2	iobj	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-23
+# sent_id = IKUVINA-I-23
 # text = ukriper fisiu fetu
 1-2	ukriper	_	_	_	_	_	_	_	_
 1	ukri	_	NOUN	_	Case=Abl|Number=Sing	4	obl	_	_
@@ -197,7 +197,7 @@
 3	fisiu	_	ADJ	_	Case=Abl|Number=Sing	1	amod	_	_
 4	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-24
+# sent_id = IKUVINA-I-24
 # text = kapiř purtitaf sakref etraf purtitaf etraf sakref tutaper ikuvina
 1	kapiř	_	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
 2	purtitaf	_	VERB	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part	1	amod	_	_
@@ -211,14 +211,14 @@
 9	per	per	ADP	_	_	8	case	_	_
 10	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	8	amod	_	_
 
-# sent_id =	IKUVINA-I-25
+# sent_id = IKUVINA-I-25
 # text = kutef pesnimu ařepes arves
 1	kutef	_	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařepes	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-26
+# sent_id = IKUVINA-I-26
 # text = preveres vehiies tref buf kaleřuf fetu vufiune krapuvi ukriper fisiu tutaper ikuvina
 1-2	preveres	_	_	_	_	_	_	_	_
 1	pre	pre	ADP	_	_	2	case	_	_
@@ -239,13 +239,13 @@
 14	per	per	ADP	_	_	13	case	_	_
 15	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	13	amod	_	_
 
-# sent_id =	IKUVINA-I-27
+# sent_id = IKUVINA-I-27
 # text = vatuva ferine fetu
 1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
 2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-28
+# sent_id = IKUVINA-I-28
 # text = heri vinu heri puni arviu ustentu
 1	heri	_	CCONJ	_	_	2	cc	_	_
 2	vinu	_	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
@@ -254,14 +254,14 @@
 5	arviu	_	NOUN	_	Case=Acc|Number=Plur	6	obj	_	_
 6	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-29
+# sent_id = IKUVINA-I-29
 # text = kutef pesnimu ařepes arves
 1	kutef	_	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
 2	pesnimu	_	VERB	_	Mood=Imp|Number=Plur|Person=3|Voice=Pass	0	root	_	_
 3	ařepes	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-30
+# sent_id = IKUVINA-I-30
 # text = pusveres vehiies tref hapinaf fetu tefre iuvie ukriper fisiu tutaper ikuvina
 1-2	pusveres	_	_	_	_	_	_	_	_
 1	pust	post	ADP	_	_	2	case	_	_
@@ -281,40 +281,40 @@
 13	per	per	ADP	_	_	12	case	_	_
 14	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	12	amod	_	_
 
-# sent_id =	IKUVINA-I-31
+# sent_id = IKUVINA-I-31
 # text = puste asiane fetu
 1	puste	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
 2	asiane	_	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	1	amod	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-32
+# sent_id = IKUVINA-I-32
 # text = zeřef fetu
 1	zeřef	_	VERB	_	_	2	advcl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-33
+# sent_id = IKUVINA-I-33
 # text = pelsana fetu
 1	pelsana	_	VERB	_	_	2	advcl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-34
+# sent_id = IKUVINA-I-34
 # text = arvia ustentu
 1	arvia	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-35
+# sent_id = IKUVINA-I-35
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-36
+# sent_id = IKUVINA-I-36
 # text = taçez pesnimu ařiper arvis
 1	taçez	_	VERB	_	_	2	advcl	_	_
 2	pesnimu	_	VERB	_	Mood=Imp|Number=Plur|Person=3|Voice=Pass	0	root	_	_
 3	ařiper	_	NOUN	_	_	2	obl	_	_
 4	arvis	_	NOUN	_	_	3	conj	_	_
 
-# sent_id =	IKUVINA-I-37
+# sent_id = IKUVINA-I-37
 # text = api habina purtiius suřum pesuntru fetu
 1	api	_	SCONJ	_	_	3	mark	_	_
 2	habina	_	NOUN	_	_	3	obj	_	_
@@ -323,14 +323,14 @@
 5	pesuntru	_	NOUN	_	_	6	obj	_	_
 6	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-38
+# sent_id = IKUVINA-I-38
 # text = esmik vestiçam preve fiktu
 1	esmik	_	PRON	_	_	3	iobj	_	_
 2	vestiçam	_	NOUN	_	_	4	obj	_	_
 3	preve	_	ADV	_	_	4	advmod	_	_
 4	fiktu	_	VERB	2SImF	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-39
+# sent_id = IKUVINA-I-39
 # text = tefri iuvi fetu ukriper fisiu tutaper ikuvina
 1	tefri	_	PROPN	_	Case=Dat|Number=Sing	3	iobj	_	_
 2	iuvi	_	ADJ	_	Case=Dat|Number=Sing	1	amod	_	_
@@ -344,7 +344,7 @@
 8	per	per	ADP	_	_	7	case	_	_
 9	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	7	amod	_	_
 
-# sent_id =	IKUVINA-I-40
+# sent_id = IKUVINA-I-40
 # text = testruku peři kapiře peřum feitu
 1-2	testruku	_	_	_	_	_	_	_	_
 1	testru	_	ADJ	_	_	3	amod	_	_
@@ -354,7 +354,7 @@
 5	peřum	_	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
 6	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-41
+# sent_id = IKUVINA-I-41
 # text = api eřek purtiius enuk suřum pesuntrum feitu stafliiuv
 1	api	_	SCONJ	_	_	3	mark	_	_
 2	eřek	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	orig=eřel
@@ -365,13 +365,13 @@
 7	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 8	stafliiuv	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	iobj	_	_
 
-# sent_id =	IKUVINA-I-42
+# sent_id = IKUVINA-I-42
 # text = esmik vestiça afiktu
 1	esmik	_	PRON	_	_	3	iobj	_	_
 2	vestiça	_	NOUN	_	_	3	obj	_	_
 3	afiktu	_	VERB	2SImF	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-43
+# sent_id = IKUVINA-I-43
 # text = ukriper fisiu tutaper ikuvina feitu
 1-2	ukriper	_	_	_	_	_	_	_	_
 1	ukri	_	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
@@ -383,7 +383,7 @@
 6	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	4	amod	_	_
 7	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-44
+# sent_id = IKUVINA-I-44
 # text = nertruku peři kapiře peřum feitu
 1-2	nertruku	_	_	_	_	_	_	_	_
 1	nertru	_	ADJ	_	_	3	amod	_	_
@@ -393,12 +393,12 @@
 5	peřum	_	NOUN	_	_	6	obj	_	_
 6	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-45
+# sent_id = IKUVINA-I-45
 # text = puni feitu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-46
+# sent_id = IKUVINA-I-46
 # text = api suřuf purtiius enuk hapinaru erus titu
 1	api	_	SCONJ	_	_	3	mark	_	_
 2	suřuf	_	NOUN	_	_	3	obj	_	_
@@ -408,18 +408,18 @@
 6	erus	_	NOUN	_	_	7	obj	_	_
 7	titu	_	VERB	2SImF	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-47
+# sent_id = IKUVINA-I-47
 # text = zeřef kumultu
 1	zeřef	_	VERB	_	_	2	advcl	_	_
 2	kumultu	_	VERB	2SImF	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-48
+# sent_id = IKUVINA-I-48
 # text = zeřef kumates pesnimu
 1	zeřef	_	VERB	_	_	3	advcl	_	_
 2	kumates	_	VERB	_	_	3	obl	_	Orig=kumats
 3	pesnimu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-49
+# sent_id = IKUVINA-I-49
 # text = vukukum iuviu pune uvef furfaθ tref vitluf turuf marte huřie fetu pupluper tutas iiuvinas tutaper ikuvina
 1-2	vukukum	_	_	_	_	_	_	_	_
 1	vuku	_	NOUN	_	_	12	obl	_	_
@@ -444,30 +444,30 @@
 18	per	per	ADP	_	_	17	case	_	_
 19	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	17	amod	_	_
 
-# sent_id =	IKUVINA-I-50
+# sent_id = IKUVINA-I-50
 # text = vatuva ferine fetu
 1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
 2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-51
+# sent_id = IKUVINA-I-51
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-52
+# sent_id = IKUVINA-I-52
 # text = arvia ustentu
 1	arvia	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-53
+# sent_id = IKUVINA-I-53
 # text = kutep pesnimu ařepes arves
 1	kutep	_	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařepes	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-54
+# sent_id = IKUVINA-I-54
 # text = vukukum kureties tref vitlup turup hunte çerfi feitu pupluper tutas iiuvinas tutaper iiuvina
 1-2	vukukum	_	_	_	_	_	_	_	_
 1	vuku	_	NOUN	_	_	9	obl	_	_
@@ -489,23 +489,23 @@
 15	per	per	ADP	_	_	14	case	_	_
 16	iiuvina	_	ADJ	_	Case=Abl|Number=Sing	14	amod	_	_
 
-# sent_id =	IKUVINA-I-55
+# sent_id = IKUVINA-I-55
 # text = vatuva ferine fetu
 1	vatuva	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
 2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-56
+# sent_id = IKUVINA-I-56
 # text = arvia ustentu
 1	arvia	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-57
+# sent_id = IKUVINA-I-57
 # text = tenzitim arveitu
 1	tenzitim	_	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 2	arveitu	_	VERB	2SImF	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-58
+# sent_id = IKUVINA-I-58
 # text = heris vinu heris puni feitu
 1	heris	_	CCONJ	_	_	2	cc	_	_
 2	vinu	_	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
@@ -513,21 +513,21 @@
 4	puni	_	NOUN	_	Case=Abl|Number=Sing	2	conj	_	_
 5	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-59
+# sent_id = IKUVINA-I-59
 # text = kutef persnimu ařipes arvis
 1	kutef	_	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	_
 2	persnimu	_	VERB	_	_	0	root	_	_
 3	ařipes	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arvis	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-60
+# sent_id = IKUVINA-I-60
 # text = inuk ukar pihaz fust
 1	inuk	_	ADV	_	_	3	advmod	_	_
 2	ukar	_	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	pihaz	_	VERB	_	_	0	root	_	_
 4	fust	fuiom	AUX	_	_	3	aux	_	_
 
-# sent_id =	IKUVINA-I-61
+# sent_id = IKUVINA-I-61
 # text = svepu esumek esunu antervakaze vaçetumi se
 1-2	svepu	_	_	_	_	_	_	_	_
 1	sve	_	SCONJ	_	_	5	mark	_	_
@@ -540,7 +540,7 @@
 7	i	e	ADP	_	_	6	case	_	_
 8	se	_	AUX	_	_	6	cop	_	obscure
 
-# sent_id =	IKUVINA-I-62
+# sent_id = IKUVINA-I-62
 # text = avif azeriatu verufe treplanu kuvertu
 1	avif	_	NOUN	_	_	2	obj	_	_
 2	azeriatu	_	VERB	_	_	6	advcl	_	_
@@ -550,13 +550,13 @@
 5	treplanu	_	ADJ	_	_	3	amod	_	_
 6	kuvertu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-63
+# sent_id = IKUVINA-I-63
 # text = restef esunu feitu
 1	restef	_	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	advcl	_	_
 2	esunu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 3	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-64
+# sent_id = IKUVINA-I-64
 # text = pune puplum aferum heries avef anzeriatu etu pernaiaf pustnaiaf
 1	pune	_	SCONJ	_	_	4	mark	_	_
 2	puplum	_	NOUN	_	Case=Acc	3	obj	_	_
@@ -568,14 +568,14 @@
 8	pernaiaf	_	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
 9	pustnaiaf	_	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	8	conj	_	_
 
-# sent_id =	IKUVINA-I-65
+# sent_id = IKUVINA-I-65
 # text = pune kuvurtus krenkatrum hatu
 1	pune	_	SCONJ	_	_	2	mark	_	_
 2	kuvurtus	_	VERB	_	_	4	advcl	_	_
 3	krenkatrum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 4	hatu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-66
+# sent_id = IKUVINA-I-66
 # text = enumek pir ahtimem ententu
 1	enumek	_	ADV	_	_	5	advmod	_	_
 2	pir	_	NOUN	_	_	5	obj	_	_
@@ -584,7 +584,7 @@
 4	em	e	ADP	_	_	3	case	_	_
 5	ententu	_	VERB	2SImF	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-67
+# sent_id = IKUVINA-I-67
 # text = pune pir entelus ahtimem enumek steplatu parfam tesvam tefe tute ikuvine
 1	pune	_	SCONJ	_	_	3	mark	_	_
 2	pir	_	NOUN	_	_	3	obj	_	_
@@ -600,7 +600,7 @@
 11	tute	_	NOUN	_	_	10	conj	_	_
 12	ikuvine	_	ADJ	_	_	11	amod	_	_
 
-# sent_id =	IKUVINA-I-68
+# sent_id = IKUVINA-I-68
 # text = vapefem avieklufe kumpifiatu
 1-2	vapefem	_	_	_	_	_	_	_	_
 1	vapef	_	NOUN	_	_	5	obl	_	_
@@ -610,7 +610,7 @@
 4	em	e	ADP	_	_	3	case	_	_
 5	kumpifiatu	_	VERB	3SImpv	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-69
+# sent_id = IKUVINA-I-69
 # text = vea aviekla esunume etu
 1	vea	_	NOUN	_	_	5	obl	_	_
 2	aviekla	_	ADJ	_	_	1	amod	_	_
@@ -619,18 +619,18 @@
 4	e	e	ADP	_	_	3	case	_	_
 5	etu	_	VERB	2SImF	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-70
+# sent_id = IKUVINA-I-70
 # text = prinuvatu etutu
 1	prinuvatu	_	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
 2	etutu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-71
+# sent_id = IKUVINA-I-71
 # text = perkaf habetutu puniçate
 1	perkaf	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 2	habetutu	_	VERB	_	Mood=Imp|Number=Plur|Person=3	0	root	_	_
 3	puniçate	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 
-# sent_id =	IKUVINA-I-72
+# sent_id = IKUVINA-I-72
 # text = pune menes akeřuniamem enumek etuřstamu tuta tařinate trifu tařinate turskum naharkum numem iapuzkum numem
 1	pune	_	SCONJ	_	_	2	mark	_	_
 2	menes	_	VERB	_	Mood=Ind|Number=Sing|Person=2	6	advcl	_	_
@@ -649,7 +649,7 @@
 14	iapuzkum	_	ADJ	_	_	15	amod	_	_
 15	numem	_	NOUN	_	_	7	conj	_	_
 
-# sent_id =	IKUVINA-I-73
+# sent_id = IKUVINA-I-73
 # text = svepis habe purtatulu pue meřs est
 1-2	svepis	_	_	_	_	_	_	_	_
 1	sve	_	SCONJ	_	_	2	mark	_	_
@@ -662,7 +662,7 @@
 7	meřs	_	NOUN	_	_	4	advcl	_	_
 8	est	_	AUX	_	_	7	cop	_	_
 
-# sent_id =	IKUVINA-I-74
+# sent_id = IKUVINA-I-74
 # text = feitu uru peře meřs est
 1	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	uru	_	PRON	_	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	_
@@ -670,7 +670,7 @@
 4	meřs	_	NOUN	_	_	1	advcl	_	_
 5	est	_	AUX	_	_	4	cop	_	_
 
-# sent_id =	IKUVINA-I-75
+# sent_id = IKUVINA-I-75
 # text = pune prinuvatus staheren termnesku enumek ařmanu kateramu ikuvinu
 1	pune	_	SCONJ	_	_	3	mark	_	_
 2	prinuvatus	_	NOUN	_	_	3	nsubj	_	_
@@ -683,7 +683,7 @@
 8	kateramu	_	VERB	_	_	7	conj	_	_
 9	ikuvinu	_	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	7	vocative	_	_
 
-# sent_id =	IKUVINA-I-76
+# sent_id = IKUVINA-I-76
 # text = enumek apretu tures et pure
 1	enumek	_	ADV	_	_	2	advmod	_	_
 2	apretu	_	VERB	2SImF	_	0	root	_	_
@@ -691,42 +691,42 @@
 4	et	_	CCONJ	_	_	5	cc	_	_
 5	pure	_	NOUN	_	Case=Abl|Number=Sing	3	conj	_	_
 
-# sent_id =	IKUVINA-I-77
+# sent_id = IKUVINA-I-77
 # text = puni amprefus persnimu
 1	puni	_	SCONJ	_	_	2	mark	_	_
 2	amprefus	_	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Fut	3	advcl	_	(amprefuus)
 3	persnimu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-78
+# sent_id = IKUVINA-I-78
 # text = enumek etatu ikuvinus
 1	enumek	_	ADV	_	_	2	advmod	_	_
 2	etatu	_	VERB	3PImF	_	0	root	_	_
 3	ikuvinus	_	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	vocative	_	_
 
-# sent_id =	IKUVINA-I-79
+# sent_id = IKUVINA-I-79
 # text = triiuper amprehtu
 1	triiuper	_	ADV	_	_	2	advmod	_	_
 2	amprehtu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-80
+# sent_id = IKUVINA-I-80
 # text = triiuper pesnimu
 1	triiuper	_	ADV	_	_	2	advmod	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-81
+# sent_id = IKUVINA-I-81
 # text = triiuper etatu ikuvinus
 1	triiuper	_	ADV	_	_	2	advmod	_	_
 2	etatu	_	VERB	_	_	0	root	_	_
 3	ikuvinus	_	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	vocative	_	_
 
-# sent_id =	IKUVINA-I-82
+# sent_id = IKUVINA-I-82
 # text = enumek prinuvatus çimu etutu
 1	enumek	_	ADV	_	_	4	advmod	_	_
 2	prinuvatus	_	NOUN	_	_	4	nsubj	_	_
 3	çimu	_	ADV	_	_	4	advmod	_	_
 4	etutu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-83
+# sent_id = IKUVINA-I-83
 # text = erahunt vea çimu etutu prinuvatus
 1	erahunt	_	ADJ	_	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
 2	vea	_	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	_
@@ -734,7 +734,7 @@
 4	etutu	_	VERB	_	_	0	root	_	_
 5	prinuvatus	_	NOUN	_	_	4	nsubj	_	_
 
-# sent_id =	IKUVINA-I-84
+# sent_id = IKUVINA-I-84
 # text = funtlere trif apruf rufru ute peiu feitu çerfe marti
 1-2	funtlere	_	_	_	_	_	_	_	_
 1	funtler	_	PROPN	_	_	8	obl	_	_
@@ -748,30 +748,30 @@
 9	çerfe	_	PROPN	_	_	8	iobj	_	_
 10	marti	_	PROPN	_	_	9	amod	_	_
 
-# sent_id =	IKUVINA-I-85
+# sent_id = IKUVINA-I-85
 # text = vatuvu ferine fetu
 1	vatuvu	_	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
 2	ferine	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
 3	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-86
+# sent_id = IKUVINA-I-86
 # text = arviu ustentu
 1	arviu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-87
+# sent_id = IKUVINA-I-87
 # text = puni feitu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-88
+# sent_id = IKUVINA-I-88
 # text = taçez pesnimu ařepe arves
 1	taçez	_	VERB	_	_	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařepe	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-89
+# sent_id = IKUVINA-I-89
 # text = rupinie e tre purka rufra ute peia fetu prestate çerfie çerfe marties
 1	rupinie	_	PROPN	_	_	8	obl	_	_
 2	e	e	ADP	_	_	1	case	_	_
@@ -786,42 +786,42 @@
 11	çerfe	_	NOUN	_	_	9	nmod	_	_
 12	marties	_	ADJ	_	_	11	amod	_	_
 
-# sent_id =	IKUVINA-I-90
+# sent_id = IKUVINA-I-90
 # text = peřaia feitu
 1	peřaia	_	ADJ	_	_	2	obj	_	_
 2	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-91
+# sent_id = IKUVINA-I-91
 # text = arviu ustentu
 1	arviu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustentu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-92
+# sent_id = IKUVINA-I-92
 # text = kapi sakra aitu
 1	kapi	_	NOUN	_	_	3	obj	_	_
 2	sakra	_	ADJ	_	_	1	amod	_	_
 3	aitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-93
+# sent_id = IKUVINA-I-93
 # text = vesklu vetu atru alfu
 1	vesklu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	vetu	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	atru	_	ADJ	_	_	1	amod	_	_
 4	alfu	_	ADJ	_	_	1	amod	_	_?3conj
 
-# sent_id =	IKUVINA-I-94
+# sent_id = IKUVINA-I-94
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-95
+# sent_id = IKUVINA-I-95
 # text = taçez pesnimu ařeper arves
 1	taçez	_	VERB	_	_	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařeper	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-96
+# sent_id = IKUVINA-I-96
 # text = tra sate tref vitlaf feitu tuse çerfie çerfe marties
 1	tra	tra	ADP	_	_	2	case	_	_
 2	sate	_	PROPN	_	Case=Loc|Number=Sing	5	obl	_	_
@@ -833,29 +833,29 @@
 8	çerfe	_	PROPN	_	_	6	nmod	_	_
 9	marties	_	ADJ	_	_	8	amod	_	_
 
-# sent_id =	IKUVINA-I-97
+# sent_id = IKUVINA-I-97
 # text = peřaia feitu
 1	peřaia	_	ADJ	_	_	2	obj	_	_
 2	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-98
+# sent_id = IKUVINA-I-98
 # text = arviu ustetu
 1	arviu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-99
+# sent_id = IKUVINA-I-99
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-100
+# sent_id = IKUVINA-I-100
 # text = taçez pesnimu ařeper arves
 1	taçez	_	VERB	_	_	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařeper	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-101
+# sent_id = IKUVINA-I-101
 # text = pune purtinçus kařetu pufe apruf fakurent puze erus teřa
 1	pune	_	SCONJ	_	_	2	mark	_	_
 2	purtinçus	_	VERB	_	Aspect=Perf|Number=Sing|Person=2|Tense=Fut	3	advcl	_	_
@@ -867,7 +867,7 @@
 8	erus	_	NOUN	_	_	9	obj	_	_
 9	teřa	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	3	advcl	_	_
 
-# sent_id =	IKUVINA-I-102
+# sent_id = IKUVINA-I-102
 # text = ape erus teřust pustru kupifiatu rupiname erus teřa
 1	ape	_	SCONJ	_	_	3	mark	_	_
 2	erus	_	NOUN	_	_	3	obj	_	_
@@ -880,7 +880,7 @@
 8	erus	_	NOUN	_	_	9	obj	_	_
 9	teřa	_	VERB	_	_	5	ccomp	_	_
 
-# sent_id =	IKUVINA-I-103
+# sent_id = IKUVINA-I-103
 # text = ene tra sahta kupifiaia erus teřa
 1	ene	_	ADV	_	_	4	advmod	_	_
 2	tra	tra	ADP	_	_	3	case	_	_
@@ -889,7 +889,7 @@
 5	erus	_	NOUN	_	_	6	obj	_	_
 6	teřa	_	VERB	_	_	4	ccomp	_	_
 
-# sent_id =	IKUVINA-I-104
+# sent_id = IKUVINA-I-104
 # text = enu rupiname pustru kuvertu
 1	enu	_	ADV	_	_	5	advmod	_	_
 2-3	rupiname	_	_	_	_	_	_	_	_
@@ -898,25 +898,25 @@
 4	pustru	_	ADV	_	_	5	advmod	_	_
 5	kuvertu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-105
+# sent_id = IKUVINA-I-105
 # text = antakre kumate pesnimu
 1	antakre	_	NOUN	_	Case=Abl|Number=Plur	3	obl	_	_
 2	kumate	_	VERB	_	VerbForm=Part	1	amod	_	_
 3	pesnimu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-106
+# sent_id = IKUVINA-I-106
 # text = enu kapi sakra aitu
 1	enu	_	ADV	_	_	4	advmod	_	_
 2	kapi	_	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 3	sakra	_	ADJ	_	Case=Acc|Number=Sing	2	amod	_	_
 4	aitu	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-107
+# sent_id = IKUVINA-I-107
 # text = vesklu vetu
 1	vesklu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	vetu	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-108
+# sent_id = IKUVINA-I-108
 # text = enu satame kuvertu
 1	enu	_	ADV	_	_	4	advmod	_	_
 2-3	satame	_	_	_	_	_	_	_	_
@@ -924,20 +924,20 @@
 3	e	e	ADP	_	_	2	case	_	_
 4	kuvertu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-109
+# sent_id = IKUVINA-I-109
 # text = antakre kumate pesnimu
 1	antakre	_	ADJ	_	_	3	obl	_	_
 2	kumate	_	VERB	_	_	1	amod	_	_
 3	pesnimu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-110
+# sent_id = IKUVINA-I-110
 # text = enu esunu purtitu fust
 1	enu	_	ADV	_	_	3	advmod	_	_
 2	esunu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 3	purtitu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 4	fust	_	AUX	_	_	3	aux	_	_
 
-# sent_id =	IKUVINA-I-111
+# sent_id = IKUVINA-I-111
 # text = pustertiu pane puplu ateřafust iveka perakre tusetu super kumne
 1-2	pustertiu	_	_	_	_	_	_	_	_
 1	pust	post	ADP	_	_	2	case	_	_
@@ -951,21 +951,21 @@
 9	super	super	ADP	_	_	10	case	_	_
 10	kumne	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
 
-# sent_id =	IKUVINA-I-112
+# sent_id = IKUVINA-I-112
 # text = ařfertur prinuvatu tuf tusetutu
 1	ařfertur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 2	prinuvatu	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
 3	tuf	_	NUM	_	Case=Acc	4	obj	_	_
 4	tusetutu	_	VERB	_	_	0	root	_	_
 
-# sent_id =	IKUVINA-I-113
+# sent_id = IKUVINA-I-113
 # text = hutra furu sehmeniar hatutu
 1	hutra	hondra	ADP	_	_	2	case	_	_
 2	furu	_	NOUN	_	Case=Acc|Number=Sing	4	obl	_	_
 3	sehmeniar	_	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
 4	hatutu	_	VERB	_	Mood=Imp|Number=Plur|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-I-114
+# sent_id = IKUVINA-I-114
 # text = eaf iveka tre akeřunie fetu tuse iuvie
 1	eaf	_	DET	_	_	2	det	_	_
 2	iveka	_	NOUN	_	_	5	obj	_	_
@@ -975,29 +975,29 @@
 6	tuse	_	PROPN	_	Case=Dat|Number=Sing	5	iobj	_	_
 7	iuvie	_	ADJ	_	Case=Dat|Number=Sing	6	amod	_	_
 
-# sent_id =	IKUVINA-I-115
+# sent_id = IKUVINA-I-115
 # text = arviu ustetu
 1	arviu	_	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 2	ustetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-116
+# sent_id = IKUVINA-I-116
 # text = puni fetu
 1	puni	_	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-117
+# sent_id = IKUVINA-I-117
 # text = peřaia fetu
 1	peřaia	_	ADJ	_	_	2	obj	_	_
 2	fetu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 
-# sent_id =	IKUVINA-I-118
+# sent_id = IKUVINA-I-118
 # text = taçez pesnimu ařepe arves
 1	taçez	_	VERB	_	_	2	advcl	_	_
 2	pesnimu	_	VERB	_	_	0	root	_	_
 3	ařepe	_	NOUN	_	Case=Abl|Number=Plur	2	obl	_	_
 4	arves	_	NOUN	_	Case=Abl|Number=Plur	3	conj	_	_
 
-# sent_id =	IKUVINA-I-119
+# sent_id = IKUVINA-I-119
 # text = kvestretie usaçe svesu vuvçis titis teteies
 1	kvestretie	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	orphan	_	Orig=kvestre:tie
 2	usaçe	_	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	1	amod	_	Orig=usaie
@@ -1006,7 +1006,7 @@
 5	titis	_	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
 6	teteies	_	PROPN	_	Case=Nom|Number=Sing	4	flat	_	_
 
-# sent_id =	IKUVINA-V-UM-1
+# sent_id = IKUVINA-V-UM-1
 # text = esuk frater atiieřiur eitipes plenasier urnasier uhtretie t t. kastruçiie
 1	esuk	_	ADV	_	_	4	advmod	_	_
 2	frater	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -1019,7 +1019,7 @@
 9	t.	_	PROPN	_	Abbr=Yes	8	flat	_	_
 10	kastruçiie	_	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
 
-# sent_id =	IKUVINA-V-UM-2
+# sent_id = IKUVINA-V-UM-2
 # text = ařfertur pisi pumpe fust eikvasese atiieřier ere ri esune kuraia
 1	ařfertur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 2	pisi	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	_
@@ -1034,7 +1034,7 @@
 10	esune	_	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	_
 11	kuraia	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 
-# sent_id =	IKUVINA-V-UM-3
+# sent_id = IKUVINA-V-UM-3
 # text = prehabia piře uraku ri esuna si herte et pure esune sis
 1	prehabia	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 2	piře	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
@@ -1050,7 +1050,7 @@
 11	esune	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	conj	_	_
 12	sis	_	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	11	cop	_	_
 
-# sent_id =	IKUVINA-V-UM-4
+# sent_id = IKUVINA-V-UM-4
 # text = sakreu perakneu upetu revestu puře teřte eru emantur herte
 1	sakreu	_	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	_
 2	perakneu	_	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	1	amod	_	_
@@ -1062,7 +1062,7 @@
 8	emantur	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	4	ccomp	_	_
 9	herte	_	VERB	_	Number=Sing|Person=3|Voice=Pass	8	advcl	_	_
 
-# sent_id =	IKUVINA-V-UM-5
+# sent_id = IKUVINA-V-UM-5
 # text = et pihaklu pune tribřiçu fuiest akrutu revestu emantu herte
 1	et	_	CCONJ	_	_	7	cc	_	_
 2	pihaklu	_	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
@@ -1074,7 +1074,7 @@
 8	emantu	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	7	ccomp	_	_
 9	herte	_	VERB	_	Number=Sing|Person=3|Voice=Pass	8	advcl	_	_
 
-# sent_id =	IKUVINA-V-UM-6
+# sent_id = IKUVINA-V-UM-6
 # text = ařfertur pisi pumpe fust erek esunesku vepurus felsva ařputrati fratru atiieřiu prehubia et nuřpener prever pusti kastruvuf
 1	ařfertur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 2	pisi	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	_
@@ -1096,7 +1096,7 @@
 17	pusti	_	ADP	_	_	18	case	_	_
 18	kastruvuf	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	16	nmod	_	_
 
-# sent_id =	IKUVINA-V-UM-7
+# sent_id = IKUVINA-V-UM-7
 # text = frater atiieřiur esu eitipes plenasier urnasier uhtretie k. t. kluviier
 1	frater	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
 2	atiieřiur	_	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	1	amod	_	_
@@ -1109,7 +1109,7 @@
 9	t.	_	PROPN	_	Abbr=Yes	8	flat	_	_
 10	kluviier	_	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
 
-# sent_id =	IKUVINA-V-UM-8
+# sent_id = IKUVINA-V-UM-8
 # text = kumnahkle atiieřie ukre eikvasese atiieřier ape apelust muneklu habia numer prever pusti kastruvuf
 1	kumnahkle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
 2	atiieřie	_	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	1	amod	_	_
@@ -1127,7 +1127,7 @@
 13	pusti	_	ADP	_	_	14	case	_	_
 14	kastruvuf	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	nmod	_	_
 
-# sent_id =	IKUVINA-V-UM-9
+# sent_id = IKUVINA-V-UM-9
 # text = et ape purtitu fust muneklu habia numer tupler pusti kastruvu
 1	et	_	CCONJ	_	_	6	cc	_	_
 2	ape	_	SCONJ	_	_	3	mark	_	_
@@ -1140,7 +1140,7 @@
 9	pusti	_	ADP	_	_	10	case	_	_
 10	kastruvu	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	nmod	_	_
 
-# sent_id =	IKUVINA-V-UM-10
+# sent_id = IKUVINA-V-UM-10
 # text = et ape subra spafu fust muneklu habia numer tripler pusti kastruvu
 1	et	_	CCONJ	_	_	7	cc	_	_
 2	ape	_	SCONJ	_	_	4	mark	_	_
@@ -1154,7 +1154,7 @@
 10	pusti	_	ADP	_	_	11	case	_	_
 11	kastruvu	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	_
 
-# sent_id =	IKUVINA-V-UM-11
+# sent_id = IKUVINA-V-UM-11
 # text = et ape frater çersnatur furent ehvelklu feia fratreks ute kvestur sve rehte kuratu si
 1	et	_	CCONJ	_	_	7	cc	_	_
 2	ape	_	SCONJ	_	_	4	mark	_	_
@@ -1171,7 +1171,7 @@
 13	kuratu	_	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	ccomp	_	_
 14	si	erom	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	13	aux	_	_
 
-# sent_id =	IKUVINA-V-UM-12
+# sent_id = IKUVINA-V-UM-12
 # text = sve mestru karu fratru atiieřiu pure ulu benurent prusikurent rehte kuratu eru eřek prufe si
 1	sve	_	SCONJ	_	_	9	mark	_	_
 2	mestru	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
@@ -1189,7 +1189,7 @@
 14	prufe	_	ADV	_	_	0	root	_	_
 15	si	erom	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	14	cop	_	_
 
-# sent_id =	IKUVINA-V-UM-13
+# sent_id = IKUVINA-V-UM-13
 # text = sve mestru karu fratru atiieřiu pure ulu benurent prusikurent kuratu rehte neip eru enuk fratru ehvelklu feia fratreks ute kvestur panta muta ařferture si
 1	sve	_	SCONJ	_	_	9	mark	_	_
 2	mestru	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
@@ -1216,7 +1216,7 @@
 23	ařferture	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	ccomp	_	_
 24	si	erom	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	23	cop	_	_
 
-# sent_id =	IKUVINA-V-UM-14
+# sent_id = IKUVINA-V-UM-14
 # text = panta muta fratru atiieřiu mestru karu pure ulu benurent ařferture eru pepurkurent herifi etantu mutu ařferture si
 1	panta	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
 2	muta	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -1236,25 +1236,25 @@
 16	ařferture	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 17	si	erom	AUX	_	_	16	cop	_	_
 
-# sent_id =	IKUVINA-III-IV-1
-# text =	esunu fuia herter sume ustite sestentasiaru urnasiaru 
+# sent_id = IKUVINA-III-IV-1
+# text = esunu fuia herter sume ustite sestentasiaru urnasiaru 
 1	esunu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 2	fuia	_	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-3	herter	_	VERB	_	Number=Sing|Person=3|Voice=pass	0	root	_	_
+3	herter	_	VERB	_	Number=Sing|Person=3|Voice=Pass	0	root	_	_
 4	sume	_	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	5	amod	_	_
 5	ustite	_	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	xcomp	_	_
 6	sestentasiaru	_	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
 7	urnasiaru	_	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	6	amod	_	_
 
-# sent_id =	IKUVINA-III-IV-2
-# text =	huntak vuke prumu pehatu 
+# sent_id = IKUVINA-III-IV-2
+# text = huntak vuke prumu pehatu 
 1	huntak	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 2	vuke	_	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 3	prumu	_	ADV	_	_	4	advmod	_	_
 4	pehatu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-3
-# text =	inuk uhturu urtes puntis frater ustentuta puře fratru mersus fust kumnakle 
+# sent_id = IKUVINA-III-IV-3
+# text = inuk uhturu urtes puntis frater ustentuta puře fratru mersus fust kumnakle 
 1	inuk	_	ADV	_	_	6	advmod	_	_
 2	uhturu	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 3	urtes	_	ADJ	_	Case=Dat|Gender=Fem|Number=Plur	4	amod	_	_
@@ -1263,32 +1263,32 @@
 6	ustentuta	_	VERB	_	Mood=Imp|Number=Plur|Person=3	0	root	_	_
 7	puře	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
 8	fratru	_	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
-9	mersus	_	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	11	nmod	_	_		?
+9	mersus	_	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	11	nmod	_	_
 10	fust	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	11	cop	_	_
 11	kumnakle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	2	acl:relcl	_	_
 
-# sent_id =	IKUVINA-III-IV-4
-# text =	(i)inuk uhtur vapeře kumnakle sistu 
+# sent_id = IKUVINA-III-IV-4
+# text = (i)inuk uhtur vapeře kumnakle sistu 
 1	inuk	_	ADV	_	_	5	advmod	_	(iinuk)
 2	uhtur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 3	vapeře	_	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
 4	kumnakle	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
 5	sistu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-5
-# text =	sakre uvem uhtur teitu 
+# sent_id = IKUVINA-III-IV-5
+# text = sakre uvem uhtur teitu 
 1	sakre	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
 2	uvem	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 3	uhtur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 4	teitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-6
-# text =	puntes terkantur 
+# sent_id = IKUVINA-III-IV-6
+# text = puntes terkantur 
 1	puntes	_	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
 2	terkantur	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-7
-# text =	inumek sakre uvem urtas puntes fratrum upetuta 
+# sent_id = IKUVINA-III-IV-7
+# text = inumek sakre uvem urtas puntes fratrum upetuta 
 1	inumek	_	ADV	_	_	7	advmod	_	_
 2	sakre	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
 3	uvem	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
@@ -1297,8 +1297,8 @@
 6	fratrum	_	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
 7	upetuta	*opiom	VERB	_	Mood=Imp|Number=Plur|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-8
-# text =	inumek via mersuva arvamen etuta 
+# sent_id = IKUVINA-III-IV-8
+# text = inumek via mersuva arvamen etuta 
 1	inumek	_	ADV	_	_	6	advmod	_	_
 2	via	_	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	_
 3	mersuva	_	ADJ	_	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
@@ -1307,94 +1307,94 @@
 5	en	_	ADP	_	_	4	case	_	_
 6	etuta	_	VERB	_	Mood=Imp|Number=Plur|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-9
-# text =	erak pir persklu uřetu 
+# sent_id = IKUVINA-III-IV-9
+# text = erak pir persklu uřetu 
 1	erak	_	PRON	_	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	_
 2	pir	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 3	persklu	_	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
 4	uřetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-10
-# text =	sakre uvem kletra fertuta aituta 
+# sent_id = IKUVINA-III-IV-10
+# text = sakre uvem kletra fertuta aituta 
 1	sakre	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
 2	uvem	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 3	kletra	_	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	_
 4	fertuta	_	VERB	_	Mood=Imp|Number=Plur|Person=3	0	root	_	_
 5	aituta	_	VERB	_	Mood=Imp|Number=Plur|Person=3	4	conj	_	_
 
-# sent_id =	IKUVINA-III-IV-11
-# text =	arven (arvamen) kletram amparitu 
+# sent_id = IKUVINA-III-IV-11
+# text = arven (arvamen) kletram amparitu 
 1-2	arven	_	_	_	_	_	_	_	(arvamen)
 1	arvam	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
 2	en	_	ADP	_	_	1	case	_	_
 3	kletram	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 4	amparitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-12
-# text =	eruk esunu futu 
+# sent_id = IKUVINA-III-IV-12
+# text = eruk esunu futu 
 1-2	eruk	_	_	_	_	_	_	_	_
 1	eru	_	PRON	_	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
 2	ku	_	ADP	_	_	1	case	_	_
 3	esunu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 4	futu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-13
-# text =	kletre tuplak prumum antentu 
+# sent_id = IKUVINA-III-IV-13
+# text = kletre tuplak prumum antentu 
 1	kletre	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
 2	tuplak	_	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 3	prumum	_	ADV	_	_	4	advmod	_	_
 4	antentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-14
-# text =	inuk çihçeřa ententu 
+# sent_id = IKUVINA-III-IV-14
+# text = inuk çihçeřa ententu 
 1	inuk	_	ADV	_	_	3	advmod	_	_
 2	çihçeřa	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	_
 3	ententu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-15
-# text =	inuk kazi ferine antentu 
+# sent_id = IKUVINA-III-IV-15
+# text = inuk kazi ferine antentu 
 1	inuk	_	ADV	_	_	4	advmod	_	_
 2	kazi	_	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
 3	ferine	_	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 4	antentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-16
-# text =	isunt feřehtru antentu 
+# sent_id = IKUVINA-III-IV-16
+# text = isunt feřehtru antentu 
 1	isunt	_	ADV	_	_	3	advmod	_	_
 2	feřehtru	_	NOUN	_	Case=Acc	3	obj	_	_
 3	antentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-17
-# text =	isunt sufeřaklu antentu 
+# sent_id = IKUVINA-III-IV-17
+# text = isunt sufeřaklu antentu 
 1	isunt	_	ADV	_	_	3	advmod	_	_
 2	sufeřaklu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	_
 3	antentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-18
-# text =	seples ahesnes tris kazi astintu 
+# sent_id = IKUVINA-III-IV-18
+# text = seples ahesnes tris kazi astintu 
 1	seples	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 2	ahesnes	_	ADJ	_	Case=Abl|Number=Plur	1	amod	_	_
 3	tris	_	NUM	_	Case=Abl|Number=Plur	1	nummod	_	_
 4	kazi	_	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
 5	astintu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-19
-# text =	feřehtru etres tris ahesnes astintu 
+# sent_id = IKUVINA-III-IV-19
+# text = feřehtru etres tris ahesnes astintu 
 1	feřehtru	_	NOUN	_	Case=Acc	5	obj	_	_
 2	etres	_	ADJPRON	_	Case=Abl|Number=Plur	5	obl	_	_
 3	tris	_	NUM	_	Case=Abl|Number=Plur	2	nummod	_	_
 4	ahesnes	_	ADJ	_	Case=Abl|Number=Plur	2	amod	_	_
 5	astintu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-20
-# text =	sufeřaklu tuves ahesnes anstintu 
+# sent_id = IKUVINA-III-IV-20
+# text = sufeřaklu tuves ahesnes anstintu 
 1	sufeřaklu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 2	tuves	_	NUM	_	Case=Abl|Gender=Neut|Number=Plur	4	obl	_	_
 3	ahesnes	_	ADJ	_	Case=Abl|Gender=Neut|Number=Plur	2	amod	_	_
 4	anstintu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-21
-# text =	inenek vukumen esunumen etu 
+# sent_id = IKUVINA-III-IV-21
+# text = inenek vukumen esunumen etu 
 1	inenek	_	ADV	_	_	6	advmod	_	_
 2-3	vukumen	_	_	_	_	_	_	_	_
 2	vukum	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
@@ -1404,8 +1404,8 @@
 5	en	_	ADP	_	_	4	case	_	_
 6	etu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-22
-# text =	ap vuku kukehes iepi persklumař kařitu 
+# sent_id = IKUVINA-III-IV-22
+# text = ap vuku kukehes iepi persklumař kařitu 
 1	ap	_	SCONJ	_	_	3	mark	_	_
 2	vuku	_	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 3	kukehes	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	7	advcl	_	_
@@ -1415,21 +1415,21 @@
 6	ař	ař	ADP	_	_	5	case	_	_
 7	kařitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-23
-# text =	vuke pir ase antentu 
+# sent_id = IKUVINA-III-IV-23
+# text = vuke pir ase antentu 
 1	vuke	_	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 2	pir	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 3	ase	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
 4	antentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-24
-# text =	sakre sevakne upetu
+# sent_id = IKUVINA-III-IV-24
+# text = sakre sevakne upetu
 1	sakre	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 2	sevakne	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	1	orphan	_	_
 3	upetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-25
-# text =	ampentu testru sese asa fratrusper atiieřies ahtisper eikvasatis tutape iiuvina trefiper iiuvina
+# sent_id = IKUVINA-III-IV-25
+# text = ampentu testru sese asa fratrusper atiieřies ahtisper eikvasatis tutape iiuvina trefiper iiuvina
 1	iuvepatre	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	_
 2	prumu	_	ADV	_	_	3	advmod	_	_
 3	ampentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
@@ -1453,31 +1453,33 @@
 17	per	per	ADP	_	_	16	case	_	_
 18	iiuvina	_	ADJ	_	Case=Abl|Gender=Fem|Number=Sing	16	amod	_	_
 
-# sent_id =	IKUVINA-III-IV-26
-# text =	tiçlu sevakni teitu 
+# sent_id = IKUVINA-III-IV-26
+# text = tiçlu sevakni teitu 
 1	tiçlu	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
 2	sevakni	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	_
 3	teitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-27
-# text =	inumek uvem sevakni upetu puemune pupřike apentu 
+# sent_id = IKUVINA-III-IV-27
+# text = inumek uvem sevakni upetu
 1	inumek	_	ADV	_	_	4	advmod	_	_
 2	uvem	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 3	sevakni	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
-4	upetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_	?
+4	upetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-5	puemune	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
-6	pupřike	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	flat	_	_
-7	apentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_	?
+# sent_id = IKUVINA-III-IV-28
+# text = puemune pupřike apentu
+1	puemune	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	_
+2	pupřike	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	flat	_	_
+3	apentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-28
-# text =	tiçlu sevakni naratu 
+# sent_id = IKUVINA-III-IV-29
+# text = tiçlu sevakni naratu 
 1	tiçlu	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
 2	sevakni	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	_
 3	naratu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-29
-# text =	iuka mersuva uvikum habetu fratruspe atiieřie ahtisper eikvasatis tutaper iiuvina trefiper iiuvina 
+# sent_id = IKUVINA-III-IV-30
+# text = iuka mersuva uvikum habetu fratruspe atiieřie ahtisper eikvasatis tutaper iiuvina trefiper iiuvina 
 1	iuka	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
 2	mersuva	_	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	1	amod	_	_
 3-4	uvikum	_	_	_	_	_	_	_	_
@@ -1501,30 +1503,30 @@
 16	per	per	ADP	_	_	15	case	_	_
 17	iiuvina	_	ADJ	_	Case=Abl|Gender=Fem|Number=Sing	15	amod	_	_
 
-# sent_id =	IKUVINA-III-IV-30
-# text =	sakre vatra ferine feitu 
+# sent_id = IKUVINA-III-IV-31
+# text = sakre vatra ferine feitu 
 1	sakre	_	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	vatra	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 3	ferine	_	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
 4	feitu	façiu	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-31
-# text =	eruku aruvia feitu 
+# sent_id = IKUVINA-III-IV-32
+# text = eruku aruvia feitu 
 1-2	eruku	_	_	_	_	_	_	_	_
 1	eru	_	PRON	_	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
 2	ku	com	ADP	_	_	1	case	_	_
 3	aruvia	_	NOUN	_	Case=Acc|Gender=Neuter|Number=Plur	4	obj	_	_
 4	feitu	façiu	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-32
-# text =	uvem peřaem pelsanu feitu 
+# sent_id = IKUVINA-III-IV-33
+# text = uvem peřaem pelsanu feitu 
 1	uvem	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
 2	peřaem	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	_
 3	pelsanu	_	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	1	amod	_	_
 4	feitu	façiu	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-33
-# text =	ererek tuva tefra spantimař prusekatu 
+# sent_id = IKUVINA-III-IV-34
+# text = ererek tuva tefra spantimař prusekatu 
 1	ererek	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 2	tuva	_	NUM	_	Case=Acc|Gender=Neut	3	nummod	_	_
 3	tefra	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
@@ -1533,21 +1535,21 @@
 5	ař	ař	ADP	_	_	4	case	_	_
 6	prusekatu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-34
-# text =	eřek peřume purtuvitu 
+# sent_id = IKUVINA-III-IV-35
+# text = eřek peřume purtuvitu 
 1	eřek	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
 2-3	peřume	_	_	_	_	_	_	_	_
 2	peřum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
 3	e	_	ADP	_	_	3	case	_	_
 4	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-35
-# text =	struçla ařveitu 
+# sent_id = IKUVINA-III-IV-36
+# text = struçla ařveitu 
 1	struçla	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 2	ařveitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-36
-# text =	inumek etrama spanti tuva	tefra prusekatu 
+# sent_id = IKUVINA-III-IV-37
+# text = inumek etrama spanti tuva	tefra prusekatu 
 1	inumek	_	ADV	_	_	7	advmod	_	_
 2-3	etrama	_	_	_	_	_	_	_	_
 2	etram	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
@@ -1557,8 +1559,8 @@
 6	tefra	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
 7	prusekatu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-37
-# text =	eřek ereçluma puemune pupřike purtuvitu 
+# sent_id = IKUVINA-III-IV-38
+# text = eřek ereçluma puemune pupřike purtuvitu 
 1	eřek	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
 2-3	ereçluma	_	_	_	_	_	_	_	_
 2	ereçlum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
@@ -1567,15 +1569,15 @@
 5	pupřike	_	PROPN	_	Case=Dat|Number=Sing	4	flat	_	_
 6	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-38
-# text =	erarunt struhçlas eskamitu ařveitu 
+# sent_id = IKUVINA-III-IV-39
+# text = erarunt struhçlas eskamitu ařveitu 
 1	erarunt	_	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	2	amod	_	_
 2	struhçlas	_	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	eskamitu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 4	ařveitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-39
-# text =	inumek tertiama spanti triia	tefra prusekatu 
+# sent_id = IKUVINA-III-IV-40
+# text = inumek tertiama spanti triia	tefra prusekatu 
 1	inumek	_	ADV	_	_	7	advmod	_	_
 2-3	tertiama	_	_	_	_	_	_	_	_
 2	tertiam	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
@@ -1585,8 +1587,8 @@
 6	tefra	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
 7	prusekatu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-40
-# text =	eřek supru sese ereçluma vesune puemunes pupřiçes purtuvitu 
+# sent_id = IKUVINA-III-IV-41
+# text = eřek supru sese ereçluma vesune puemunes pupřiçes purtuvitu 
 1	eřek	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
 2	supru	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
 3	sese	_	ADP	_	_	2	case	_	_
@@ -1598,23 +1600,23 @@
 8	pupřiçes	_	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
 9	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-41
-# text =	struhçla petenata isek ařveitu 
+# sent_id = IKUVINA-III-IV-42
+# text = struhçla petenata isek ařveitu 
 1	struhçla	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 2	petenata	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	1	amod	_	_
 3	isek	_	ADV	_	_	4	advmod	_	_
 4	ařveitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-42
-# text =	ererunt kapiřus puemune vesune purtuvitu 
+# sent_id = IKUVINA-III-IV-43
+# text = ererunt kapiřus puemune vesune purtuvitu 
 1	ererunt	_	ADJ	_	Case=Abl|Gender=Fem|Number=Plur	2	amod	_	_
 2	kapiřus	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 3	puemune	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	_
 4	vesune	_	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	3	flat	_	_
 5	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-43
-# text =	asamař ereçlamař aseçetes karnus iseçeles et • vempesuntres supes sanes pertentu 
+# sent_id = IKUVINA-III-IV-44
+# text = asamař ereçlamař aseçetes karnus iseçeles et • vempesuntres supes sanes pertentu 
 1-2	asamař	_	_	_	_	_	_	_	_
 1	asam	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
 2	ař	_	ADP	_	_	1	case	_	_
@@ -1630,20 +1632,20 @@
 11	sanes	_	ADJ	_	Case=Abl|Gender=Fem|Number=Plur	10	amod	_	_
 12	pertentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-44
-# text =	persnimu 
-1	persnimu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=pass	0	root	_	_
+# sent_id = IKUVINA-III-IV-45
+# text = persnimu 
+1	persnimu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-45
-# text =	ařpeltu 
+# sent_id = IKUVINA-III-IV-46
+# text = ařpeltu 
 1	ařpeltu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-46
-# text =	statitatu 
+# sent_id = IKUVINA-III-IV-47
+# text = statitatu 
 1	statitatu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-47
-# text =	veskles snates asnates sevakne ereçluma persnimu puemune pupřike vesune puemunes pupřikes 
+# sent_id = IKUVINA-III-IV-48
+# text = veskles snates asnates sevakne ereçluma persnimu puemune pupřike vesune puemunes pupřikes 
 1	veskles	_	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	7	obl	_	_
 2	snates	_	ADJ	_	Case=Abl|Gender=Neut|Number=Plur	1	amod	_	_
 3	asnates	_	ADJ	_	Case=Abl|Gender=Neut|Number=Plur	1	amod	_	_
@@ -1651,17 +1653,17 @@
 5-6	ereçluma	_	_	_	_	_	_	_	_
 5	ereçlum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
 6	a	ař	ADP	_	_	5	case	_	_
-7	persnimu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=pass	0	root	_	_
+7	persnimu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 8	puemune	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
 9	pupřike	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	flat	_	_
 10	vesune	_	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	_
 11	puemunes	_	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 12	pupřikes	_	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	flat	_	_
 
-# sent_id =	IKUVINA-III-IV-48
-# text =	klavles persnihmu puemune pupřike et vesune puemunes pupřikes pustin ereçlu 
-1	klavles	_	NOUN	_	Case=AblGender=Fem|Number=Plur	2	obl	_	_
-2	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=pass	0	root	_	_
+# sent_id = IKUVINA-III-IV-49
+# text = klavles persnihmu puemune pupřike et vesune puemunes pupřikes pustin ereçlu 
+1	klavles	_	NOUN	_	Case=Abl|Gender=Fem|Number=Plur	2	obl	_	_
+2	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 3	puemune	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	_
 4	pupřike	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	flat	_	_
 5	et	_	CCONJ	_	_	6	cc	_	_
@@ -1671,16 +1673,16 @@
 9	pustin	_	ADP	_	_	10	case	_	_
 10	ereçlu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
 
-# sent_id =	IKUVINA-III-IV-49
-# text =	inuk ereçlu umtu putrespe erus 
+# sent_id = IKUVINA-III-IV-50
+# text = inuk ereçlu umtu putrespe erus 
 1	inuk	_	ADV	_	_	3	advmod	_	_
 2	ereçlu	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
 3	umtu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 4	putrespe	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 5	erus	_	NOUN	_	Case=Acc|Number=Sing	3	orphan	_	_
 
-# sent_id =	IKUVINA-III-IV-50
-# text =	inuk vestiçia mefa purtupite skalçeta kunikaz apehtre esuf testru • sese asa asama purtuvitu
+# sent_id = IKUVINA-III-IV-51
+# text = inuk vestiçia mefa purtupite skalçeta kunikaz apehtre esuf testru • sese asa asama purtuvitu
 1	inuk	_	ADV	_	_	15	advmod	_	_
 2	vestiçia	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
 3	mefa	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
@@ -1699,14 +1701,13 @@
 14	a	ař	ADP	_	_	13	case	_	_
 15	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-
-# sent_id =	IKUVINA-III-IV-51
-# text =	sevakne sukatu 
+# sent_id = IKUVINA-III-IV-52
+# text = sevakne sukatu 
 1	sevakne	_	ADJ	_	Case=Acc|Number=Plur	2	obj	_	_
 2	sukatu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-52
-# text =	inumek ves(v)teça persuntru supu • ereçle hule sevakne skalçeta kunikaz purtuvitu 
+# sent_id = IKUVINA-III-IV-53
+# text = inumek ves(v)teça persuntru supu • ereçle hule sevakne skalçeta kunikaz purtuvitu 
 1	inumek	_	ADV	_	_	11	advmod	_	_
 2	vesteça	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
 3	persuntru	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	case	_	_
@@ -1720,8 +1721,8 @@
 10	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	advcl	_	_
 11	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-53
-# text =	inumek vestiçia persuntru turse super ereçle sevakne skalçeta kunikaz purtuviθu 
+# sent_id = IKUVINA-III-IV-54
+# text = inumek vestiçia persuntru turse super ereçle sevakne skalçeta kunikaz purtuviθu 
 1	inumek	_	ADV	_	_	11	advmod	_	_
 2	vestiçia	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
 3	persuntru	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	_
@@ -1735,21 +1736,21 @@
 10	kunikaz	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	advcl	_	_
 11	purtuviθu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-54
-# text =	inumek tehteřim etu veltu 
+# sent_id = IKUVINA-III-IV-55
+# text = inumek tehteřim etu veltu 
 1	inumek	_	ADV	_	_	4	advmod	_	_
 2	tehteřim	_	NOUN	_	Case=Acc|Number=Sing.	3	obj	_	_
 3	etu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 4	veltu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	3	conj	_	_
 
-# sent_id =	IKUVINA-III-IV-55
-# text =	eřek persuntre antentu 
+# sent_id = IKUVINA-III-IV-56
+# text = eřek persuntre antentu 
 1	eřek	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 2	persuntre	_	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
 3	antentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-56
-# text =	inumek arçlataf vasus ufestne sevaknef purtuvitu 
+# sent_id = IKUVINA-III-IV-57
+# text = inumek arçlataf vasus ufestne sevaknef purtuvitu 
 1	inumek	_	ADV	_	_	6	advmod	_	_
 2	arçlataf	_	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
 3	vasus	_	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	6	obl	_	_
@@ -1757,30 +1758,30 @@
 5	sevaknef	_	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	2	amod	_	_
 6	purtuvitu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-57
-# text =	inumek pruzuře kebu sevakne persnihmu puemune pupřiçe 
+# sent_id = IKUVINA-III-IV-58
+# text = inumek pruzuře kebu sevakne persnihmu puemune pupřiçe 
 1	inumek	_	ADV	_	_	5	advmod	_	_
 2	pruzuře	_	ADJ	_	Case=Abl|Gender=Neut|Number=Sing	3	amod	_	_
 3	kebu	_	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	_
 4	sevakne	_	ADJ	_	Case=Abl|Gender=Neut|Number=Sing	3	amod	_	_
-5	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=pass	0	root	_	_
+5	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 6	puemune	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	_
 7	pupřiçe	_	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	flat	_	_
 
-# sent_id =	IKUVINA-III-IV-58
-# text =	inumek kletra veskles vufetes sevaknis persnihmu vesune puemunes pupřiçes 
+# sent_id = IKUVINA-III-IV-59
+# text = inumek kletra veskles vufetes sevaknis persnihmu vesune puemunes pupřiçes 
 1	inumek	_	ADV	_	_	6	advmod	_	_
 2	kletra	_	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	_
 3	veskles	_	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	6	obl	_	_
 4	vufetes	_	ADJ	_	Case=Abl|Gender=Neut|Number=Plur	3	amod	_	_
 5	sevaknis	_	ADJ	_	Case=Abl|Gender=Neut|Number=Plur	3	amod	_	_
-6	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=pass	0	root	_	_
+6	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 7	vesune	_	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	_
 8	puemunes	_	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 9	pupřiçes	_	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
 
-# sent_id =	IKUVINA-III-IV-59
-# text =	inumek svepis heri ezariaf antentu 
+# sent_id = IKUVINA-III-IV-60
+# text = inumek svepis heri ezariaf antentu 
 1	inumek	_	ADV	_	_	6	advmod	_	_
 2-3	svepis	_	_	_	_	_	_	_	_
 2	sve	_	SCONJ	_	_	4	mark	_	_
@@ -1789,57 +1790,57 @@
 5	ezariaf	_	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
 6	antentu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-60
-# text =	inumek erus taçez teřtu 
+# sent_id = IKUVINA-III-IV-61
+# text = inumek erus taçez teřtu 
 1	inumek	_	ADV	_	_	4	advmod	_	_
 2	erus	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 3	taçez	_	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	_
 4	teřtu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-61
-# text =	inumek kumaltu 
+# sent_id = IKUVINA-III-IV-62
+# text = inumek kumaltu 
 1	inumek	_	ADV	_	_	1	advmod	_	_
 2	kumaltu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-62
-# text =	ařkani kanetu 
+# sent_id = IKUVINA-III-IV-63
+# text = ařkani kanetu 
 1	ařkani	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 2	kanetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-63
-# text =	kumates persnihmu 
+# sent_id = IKUVINA-III-IV-64
+# text = kumates persnihmu 
 1	kumates	_	ADJ	_	Case=Abl|Number=Plur	2	obl	_	_
-2	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=pass	0	root	_	_
+2	persnihmu	*persniom	VERB	_	Mood=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-64
-# text =	esuku esunu uřetu 
+# sent_id = IKUVINA-III-IV-65
+# text = esuku esunu uřetu 
 1-2	esuku	_	_	_	_	_	_	_	_
 1	esu	_	PRON	_	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
 2	ku	com	ADP	_	_	2	case	_	_
 3	esunu	_	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
 4	uřetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-65
-# text =	tapistenu habetu 
+# sent_id = IKUVINA-III-IV-66
+# text = tapistenu habetu 
 1	tapistenu	_	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 2	habetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-66
-# text =	pune frehtu habetu 
+# sent_id = IKUVINA-III-IV-67
+# text = pune frehtu habetu 
 1	pune	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
 2	frehtu	_	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	1	acl:relcl	_	_
 3	habetu	_	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
 
-# sent_id =	IKUVINA-III-IV-67
-# text =	ap itek fakust purtitu futu 
+# sent_id = IKUVINA-III-IV-68
+# text = ap itek fakust purtitu futu 
 1	ap	_	SCONJ	_	_	3	mark	_	_
 2	itek	_	ADV	_	_	3	advmod	_	_
 3	fakust	façiu	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	advcl	_	_
 4	purtitu	_	VERB	_	|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 5	futu	fuiom	VERB	_	Mood=Imp|Number=Sing|Person=3	4	aux	_	_
 
-# sent_id =	IKUVINA-III-IV-68
-# text =	huntak piři prupehast eřek ures punes neiřhabas 
+# sent_id = IKUVINA-III-IV-69
+# text = huntak piři prupehast eřek ures punes neiřhabas 
 1	huntak	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 2	piři	_	SCONJ	_	_	3	mark	_	_
 3	prupehast	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	8	advcl	_	_
@@ -1848,5 +1849,5 @@
 6	punes	_	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
 7-8	neiřhabas	_	_	_	_	_	_	_	_
 7	nei	neip	ADV	_	_	8	advmod	_	_
-8	ařhabas	_	VERB	_	Mood=Sub|Number=Sing|Person=2 ?|Tense=Pres	0	root	_	_
+8	ařhabas	_	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	0	root	_	_
 
