@@ -41,7 +41,7 @@ This treebank is maintained by Mathieu Dehouck.
 
 # Changelog
 
-* 2025-10-21 v1.17
+* 2025-10-21 v2.17
   * added Tablet III and IV. 
 
 * 2022-10-31 v2.11
