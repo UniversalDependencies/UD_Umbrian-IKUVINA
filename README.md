@@ -20,8 +20,8 @@ Specific information about the analysis can be found on the language doc page.
 |-------|-------|------|----------|------|-----------|
 |I      | Part  | Done | Part     | Done | Done      |
 |II     |       |      |          |      |           |
-|III    |       |      |          |      |           |
-|IV     |       |      |          |      |           |
+|III    | Part  | Done | Done     | Done | Done      |
+|IV     | Part  | Done | Done     | Done | Done      |
 |V um   | Part  | Done | Done     | Done | Done      |
 |V la   |       |      |          |      |           |
 |VI     |       |      |          |      |           |
@@ -40,6 +40,9 @@ This treebank is maintained by Mathieu Dehouck.
 * (citation) -->
 
 # Changelog
+
+* 2025-10-21 v1.17
+  * added Tablet III and IV. 
 
 * 2022-10-31 v2.11
   * added Umbrian section of Tablet V,
