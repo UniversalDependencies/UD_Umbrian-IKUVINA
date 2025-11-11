@@ -20,8 +20,8 @@ Specific information about the analysis can be found on the language doc page.
 |-------|-------|------|----------|------|-----------|
 |I      | Part  | Done | Part     | Done | Done      |
 |II     |       |      |          |      |           |
-|III    |       |      |          |      |           |
-|IV     |       |      |          |      |           |
+|III    | Part  | Done | Done     | Done | Done      |
+|IV     | Part  | Done | Done     | Done | Done      |
 |V um   | Part  | Done | Done     | Done | Done      |
 |V la   |       |      |          |      |           |
 |VI     |       |      |          |      |           |
@@ -41,6 +41,9 @@ This treebank is maintained by Mathieu Dehouck.
 
 # Changelog
 
+* 2025-10-21 v2.17
+  * added Tablet III and IV. 
+
 * 2022-10-31 v2.11
   * added Umbrian section of Tablet V,
   * changed the relation of "anzeriates" in tablet I sentence 1 from [dep] to [acl].
@@ -54,6 +57,7 @@ This treebank is maintained by Mathieu Dehouck.
 Data available since: UD v2.10
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction
 Lemmas: manual native
 UPOS: manual native
