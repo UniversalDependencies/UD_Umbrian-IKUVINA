@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Umbrian-IKUVINA:
-commit d2ed0427e4e8278425fb0ffc6e3c873da675f1b8
-Merge: b4b8c8f ef2cdb6
+commit b9b77769f140f6aae09eec4577b73d5521693af3
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:59:54 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'xum_ikuvina'
 Language code (from CoNLL-U file name) = 'xum'
@@ -25,20 +25,24 @@ Universal relations: 26 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang xum --max-err=10 UD_Umbrian-IKUVINA/xum_ikuvina-ud-test.conllu
-[Line 3 Sent IKUVINA-I-1]: [L3 Warning pron-det-without-prontype] The word 'este' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 52 Sent IKUVINA-I-6]: [L3 Warning pron-det-without-prontype] The word 'sevum' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 328 Sent IKUVINA-I-38]: [L3 Warning pron-det-without-prontype] The word 'esmik' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 360 Sent IKUVINA-I-41]: [L3 Warning pron-det-without-prontype] The word 'eřek' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 370 Sent IKUVINA-I-42]: [L3 Warning pron-det-without-prontype] The word 'esmik' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 534 Sent IKUVINA-I-61]: [L3 Warning pron-det-without-prontype] The word 'pu' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 535 Sent IKUVINA-I-61]: [L3 Warning pron-det-without-prontype] The word 'esumek' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 599 Sent IKUVINA-I-67]: [L3 Warning pron-det-without-prontype] The word 'tefe' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 656 Sent IKUVINA-I-73]: [L3 Warning pron-det-without-prontype] The word 'pis' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 660 Sent IKUVINA-I-73]: [L3 Warning pron-det-without-prontype] The word 'ulu' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 47
-*** PASSED ***
-Validity: 1
+[Line 3 Sent IKUVINA-I-1]: [L3 WARNING pron-det-without-prontype] The word 'este' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 52 Sent IKUVINA-I-6]: [L3 WARNING pron-det-without-prontype] The word 'sevum' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 328 Sent IKUVINA-I-38]: [L3 WARNING pron-det-without-prontype] The word 'esmik' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 360 Sent IKUVINA-I-41]: [L3 WARNING pron-det-without-prontype] The word 'eřek' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 370 Sent IKUVINA-I-42]: [L3 WARNING pron-det-without-prontype] The word 'esmik' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 534 Sent IKUVINA-I-61]: [L3 WARNING pron-det-without-prontype] The word 'pu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 535 Sent IKUVINA-I-61]: [L3 WARNING pron-det-without-prontype] The word 'esumek' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 599 Sent IKUVINA-I-67]: [L3 WARNING pron-det-without-prontype] The word 'tefe' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 656 Sent IKUVINA-I-73]: [L3 WARNING pron-det-without-prontype] The word 'pis' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 660 Sent IKUVINA-I-73]: [L3 WARNING pron-det-without-prontype] The word 'ulu' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1428 Sent IKUVINA-III-IV-24]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 1593 Sent IKUVINA-III-IV-41]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'vesune') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 46
+SYNTAX errors: 1
+*** FAILED *** with 1 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
@@ -46,6 +50,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
 (weight=0.111111111111111) * (score{udeprels}=0.702702702702703) = 0.0780780780780781
-(TOTAL score=0.283695392362198) * (availability=1) * (validity=1) = 0.283695392362198
-STARS = 1.5
-UD_Umbrian-IKUVINA	0.283695392362198	1.5
+(TOTAL score=0.283695392362198) * (availability=1) * (validity=0.01) = 0.00283695392362198
+STARS = 0
+UD_Umbrian-IKUVINA	0.00283695392362198	0
