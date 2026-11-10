@@ -79,11 +79,11 @@
     <dep name="flat">15</dep>
     <dep name="iobj">31</dep>
     <dep name="mark">30</dep>
-    <dep name="nmod">38</dep>
+    <dep name="nmod">39</dep>
     <dep name="nsubj">39</dep>
     <dep name="nummod">17</dep>
     <dep name="obj">131</dep>
-    <dep name="obl">154</dep>
+    <dep name="obl">153</dep>
     <dep name="orphan">4</dep>
     <dep name="root">202</dep>
     <dep name="vocative">3</dep>

@@ -1590,7 +1590,7 @@
 # sent_id = IKUVINA-III-IV-41
 # text = eřek supru sese ereçluma vesune puemunes pupřiçes purtuvitu
 1	eřek	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
-2	supru	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+2	supru	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	_
 3	sese	_	ADP	_	_	2	case	_	_
 4-5	ereçluma	_	_	_	_	_	_	_	_
 4	ereçlum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
